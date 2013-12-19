@@ -1,7 +1,8 @@
 #目錄
-篇名(pinn1mia5)		編號		類名(lui7)
-自身篇				01		身體病痛醫藥類
+篇名(pinn1mia5)	編號(pian1ho7)	類名(lui7)
+自身篇			01				身體病痛醫藥類
 
 #辭典
-編號		噶哈巫語教材標記法	噶哈巫語潘永歷標記法	中文譯解	臺語譯解				參考		出處
-01A-005	bekets				bəkəts				頭髮		thâu mo•，mô•-hoat	bekes	潘
+目錄編號				辭典編號				噶哈巫語教材標記法		噶哈巫語潘永歷標記法				中文譯解		臺語譯解				參考			出處
+(bok8lok8pian1ho7)	(su5tian2pian1ho7)	(kau3tsai5piau1ki3)	(phuan1ing2lik8piau1ki3)	(tiong1bun5)(tai5gi2)			(tsham1kho2)(tshut4tshu3)
+01A					005					bekets				bəkəts						頭髮			thâu mo•，mô•-hoat	bekes		潘

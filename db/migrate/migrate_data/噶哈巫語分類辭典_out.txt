@@ -1,53 +1,1365 @@
-自身篇, 01身體病痛醫藥類, sin-thé,pēn-thian, i-io̍h luī, 頭、髮毛、頸、身、四肢、病痛、醫藥, , 
-自身篇, 0101頭、頭髮, , , , 
-自身篇, 0102眼, , , , 
-自身篇, 0103鼻, , , , 
-自身篇, 0104耳, , , , 
-自身篇, 0105嘴, , , , 
-自身篇, 0106牙齒, , , , 
-自身篇, 0107呼吸, , , , 
-自身篇, 0108聲音, , , , 
-自身篇, 0109臉, , , , 
-自身篇, 0110頸, , , , 
-自身篇, 0111手、手臂, , , , 
-自身篇, 0112胸部, , , , 
-自身篇, 0113下半身, , , , 
-自身篇, 0114腳, , , , 
-自身篇, 0115身體皮膚, , , , 
-自身篇, 0116病痛、醫藥、醫療行為, , , , 
-自身篇, 02動作、感覺、心思類, kok-chióngkí-tōng kám-koan luī, 手的動作、腳的動作、身體的動作、感官的動作、感覺、心理、思維等, , 
-自身篇, 0201眼耳動作, , , , 
-自身篇, 0202哭笑和口部動作, , , , 
-自身篇, 0203手的動作, , , , 
-自身篇, 0204腳的動作, , , , 
-自身篇, 0205一般動作, , , , 
-近身篇, 03衣著、寢具類, ì-tio̍k & chhím-kū luī, 衣服、鞋襪手套、裝扮、被褥、寢具等物，及其縫製、使用, , 
-近身篇, 04食物、烹飪類, chiah-míh(si̍t-bu̍t) & tsú chia̍h luī, 食物、飲料、零食、烹飪方法、用具, , 
-近身篇, 0401食物, , , , 
-近身篇, 0402飲食, , , , 
-近身篇, 0403菸酒口嚼物, , , , 
-近身篇, 05居住類, kap khiā-khí iú-koan luī, 居屋、建築、橋梁、都市、城鎮、鄉村, , 
-近身篇, 06工具類, kang-khū luī, 日常用品、各種工作器具、機器設備、用法, , 
-近身篇, 07生活、工作類, seng-oàh &kang-tsok luī, 家庭社群生活、各種工作、職業, , 
-近身篇, 08行動、交通類, hêng-tōng kap kau-thong luī, 人的行動、遷徙、陸海空等交通, , 
-近身篇, 09言語、信息類, gú-giân kap sin-sit luī, 人間的各種溝通，語言、文字、符號、書寫工具、輸出入傳播工具、網路及其相關事物, , 
-近身篇, 10稱謂、姓名類, míâ-chheng, sìng-bîng luī, 親戚朋友稱謂、各種行業人的稱呼、各種階層的稱呼、各種族群國家的稱呼、本族人常用姓氏名字, , 
-近身篇, 11遊樂、休閒類, iû-lok, hiu han luī, 娛樂、遊戲、旅遊、觀光、運動、閒活動等，附收：不良言行舉動、不良活動, , 
-近身篇, 12財物贈受、禮俗、信仰類, Tsâi-bu̍t, chìng-sòng, lé-sìok &sìn-ióng luī, 財物、財產、餽贈、收納、禮儀、習俗、信仰、祭祀等, , 
-近身篇, 01財物贈受, , , , 
-近身篇, 02禮俗、信仰, , , , 
-外物篇, 13自然類, chū-jiân  luī, 除植物、動物之外的天文、宇宙、地理、環境、無生物、礦務等大自然, , 
-外物篇, 14植物類, tìt(si̍t)-but luī, 花、草、樹、木, , 
-外物篇, 15動物類, tōng- but luī, 蟲、魚、鳥、獸, , 
-性質、關係、符號篇, 16形狀、色彩、性質和音響類, hêng-chōng,sek-chhái,sìng chit,im-hióng luī, 形狀、色彩、聲音、音響、性質、狀態, , 
-性質、關係、符號篇, 17性格和其他特性類, seǹg-keh kap kî-than,tek-sèng luī, 人和事情的善惡、好壞、愚智、敏鈍、美醜、難易等性格和特性, , 
-性質、關係、符號篇, 18空間類, tiûn-tē kap tē-tiám luī, 內外、遠近、長短、寬窄、地點、部位、方向等、位置等, , 
-性質、關係、符號篇, 19時間類, sî-kan luī, 年月日時分、早晚、季節、今明後天、先後等時間性語詞, , 
-性質、關係、符號篇, 20數量類, sò-liōng luī, 數目、序數、度量衡、物量、事量、動量等語詞, , 
-性質、關係、符號篇, 21代名詞類, Tāi bîng sû luī, 人稱、指示、疑問等代名詞。, , 
-性質、關係、符號篇, 2101人稱代名詞, Jîn chhing Tāi bîng sû, , , 
-性質、關係、符號篇, 2102 指示代名詞, Chí-sī Tāi bîng sû, , , 
-性質、關係、符號篇, 2103疑問代名詞, gî-būn Tāi bîng sû, , , 
-性質、關係、符號篇, 22人群關係類, jîn kûn koan hē luī, 政治、社會、法律、軍事、經濟、農業、工業, , 
-性質、關係、符號篇, 23文教類, bûn kàu luī, 教育、圖書、文化, , 
-性質、關係、符號篇, 24語法功能類, gú-hoat kong-lîng luī, 有關語法的語詞, , 
+A.自身篇, 01, 身體病痛醫藥類
+A.自身篇, 01A, 頭、頭髮
+A.自身篇, 01B, 眼
+A.自身篇, 01C, 鼻
+A.自身篇, 01D, 耳
+A.自身篇, 01E, 嘴
+A.自身篇, 01F, 牙齒
+A.自身篇, 01G, 呼吸
+A.自身篇, 01H, 聲音
+A.自身篇, 01I, 臉
+A.自身篇, 01J, 頸
+A.自身篇, 01K, 手、手臂
+A.自身篇, 01L, 胸部
+A.自身篇, 01M, 下半身
+A.自身篇, 01N, 腳
+A.自身篇, 01O, 身體皮膚
+A.自身篇, 01P, 病痛、醫藥、醫療行為
+A.自身篇, 02, 動作、感覺、心思類
+A.自身篇, 02A, 眼耳動作
+A.自身篇, 02B, 哭笑和口部動作
+A.自身篇, 02C, 手的動作
+A.自身篇, 02D, 腳的動作
+A.自身篇, 02E, 一般動作
+B.近身篇, 03, 衣著、寢具類
+B.近身篇, 04, 食物、烹飪類
+B.近身篇, 04A, 食物
+B.近身篇, 04B, 飲食
+B.近身篇, 04C, 菸酒口嚼物
+B.近身篇, 05, 居住類
+B.近身篇, 06, 工具類
+B.近身篇, 07, 生活、工作類
+B.近身篇, 08, 行動、交通類
+B.近身篇, 09, 言語、信息類
+B.近身篇, 10, 稱謂、姓名類
+B.近身篇, 11, 遊樂、休閒類
+B.近身篇, 12, 財物贈受、禮俗、信仰類
+B.近身篇, 12A, 財物贈受
+B.近身篇, 12B, 禮俗、信仰
+C.外物篇, 13, 自然類
+C.外物篇, 14, 植物類
+C.外物篇, 15, 動物類
+D.性質、關係、符號篇, 16, 形狀、色彩、性質和音響類
+D.性質、關係、符號篇, 17, 性格和其他特性類
+D.性質、關係、符號篇, 18, 空間類
+D.性質、關係、符號篇, 19, 時間類
+D.性質、關係、符號篇, 20, 數量類
+D.性質、關係、符號篇, 21, 代名詞類
+D.性質、關係、符號篇, 21A, 人稱代名詞
+D.性質、關係、符號篇, 21B, 指示代名詞
+D.性質、關係、符號篇, 21C, 疑問代名詞
+D.性質、關係、符號篇, 22, 人群關係類
+D.性質、關係、符號篇, 23, 文教類
+D.性質、關係、符號篇, 24, 語法功能類
+01A,001,punu,punu,頭（整個）,thâu ê choân-pō•,,潘
+01A,002,ituk,ituk,頭頂,thâu ê thâu khak téng,,潘
+01A,003,ahenisan,ahenisan,囪門（嬰幼兒之頭頂凹陷）,sìn-mn̂g，sió-zî thang khoàn,,潘
+01A,004,daki,dà-ki,嬰兒頭上的胎污,thâu-phôe ê thâu-pho•，lah-sap,新生兒頭上的胎脂，一般兩個月後，會剝落消失。,潘
+01A,005,bekets,bəkəts,頭髮,thâu mo•，mô•-hoat,見(   )條bekes毛髮,潘
+01A,006,punu bekes,punu bəkəs,頭髮,thâu mo•,,田
+01A,007,bekes,bəkəs,毛髮,mô•-hoat,見(   )條bekes頭髮,田
+01A,008,isilau bekes,isilau bəkəs,白髮,pèh mo• ( pèh-hoat ),,潘
+01A,009,lituk,lìtuk,髮環,phè thâu mo• khoân,,潘
+01A,010,tuloaluk a bekes,tùloalúk a bəkəs,未梳理的頭髮,bô se chéng ê thâu-mo•,,潘
+01A,011,muluzuk,muluzuk,梳理頭髮,se loa̍h thâu-mo•,,潘
+01A,012,pupusus bekes,pupusus bəkəs,梳理整齊的頭髮,se-lí chéng-chê ê thâu-mo•,,潘
+01A,013,pakato,pàkato,理髮,thì-thâu,,潘
+01A,014,pakator,pakator ,理頭髮,thì-thâu,,潘
+01A,015,pinakato,pìnakato,理過的頭髮,thì-kòe ê thâu-mo•，í-keng thi,,潘
+01A,016,muxapi,muxāpi,編髮,san-kó-pīn ê thâu-mo•,,潘
+01A,017,xaxapi,xaxapi,結髮,thâu-chang bóe kiat-liân,,潘
+01A,018,maxa ziuziu,màxa ziuziu,光頭,kng-thâu，bô-mo•,,潘
+01A,019,maxoraxo,maxoraxo,頭斑、斑點,tiám-tiám ê thâu-phôe pan，pan-tiám,,潘
+01A,020,siziuoan,śiziuoan,禿頭,thut-thâu,,潘
+01A,021,tunu,tunuʔ,頭腦,thâu-náu,見(   )條tunu腦髓,潘
+01A,022,tunu,tunuʔ,腦髓,náu-chhóe,見(   )條tunu頭腦,潘
+01A,023,punu dakan,pù-nu da kan,前額,chêng thâu-hia̍h，hia̍h-thâu,見(   )條punu lizak前額,潘
+01A,024,punu lizak,pù-nu li-zak,前額,chêng thâu-hia̍h，hia̍h-thâu,見(   )條punu dakan前額,潘
+01B,001,dauik,dāu-ik,眼睛,ba̍k-chiu,見(   )條daurik眼睛,潘
+01B,002,daurik,dau-rik,眼睛,ba̍k-chiu,見(   )條dauik眼睛,潘
+01B,003,batu dauik,bà-tu dāu-ik,瞳孔,ba̍k-chiu-zîn,,潘
+01B,004,punu dauik,pù-nu dāu-ik,眼頭,ba̍k-chiu-thâu,,潘
+01B,005,ngadus a dauik,nga dus ā dāu-ik,眼尾,ba̍k-chiu-pin,,潘
+01B,006,apai a dauik,à pai ā dāu-ik,眼皮,ba̍k-chiu ê phôe,,潘
+01B,007,bekets dauik,bəkəts dāu-ik,眼睫毛,ba̍k-chiu mo•,,潘
+01B,008,eset,ə-sət,眼油,ba̍k- iû,見(   )條eset眼淚,潘
+01B,009,eset,ə-sət,眼淚,thang tiām-tiām--a，mài koh khàu--a,見(   )條eset眼油,潘
+01B,010,tamun,,眼屎,ba̍k-chiu-sái-ko,見(   )條tamun餡、見(   )條tamun酵母,田
+01B,011,tilimun,tì-li mun,砂眼,ba̍k lah-sap，soa-gán,,潘
+01B,012,tabah,tà bah,濕眼,tâm ba̍k kîn,,潘
+01B,013,manaip,mà na ip,閉眼 ,mi-mi ê ba̍k-chiu，sí ê ngá-chheng,見(   )條mana-ip ；其他含意: "死亡" 的雅稱,潘
+01B,014,muhulat,mù hū lat,醒目,chhén-bàk，peh-kim ê,,潘
+01B,015,mubitut,mù bī tut,想睡的眼睛,khùn-ba̍k，ū ná bô khoàn-kìn,,潘
+01B,016,mukemet,mù kə mə t,想睡覺時的眨眼動作,pì-ba̍k，ba̍k-chiu-phôe ha̍p-oá，nih ba̍k-chiu,見(   )條mukemut,潘
+01B,017,kekemet,kə kə mət,向人示意的眨眼動作,nih-ba̍k ( ēng ba̍k-chiu kóng-ōe ),,潘
+01B,018,malalem a dauik,mà là ləm a dāu-ik,視力退化,thè-hoà ê sí-la̍t,,潘
+01B,019,mohek,mô hek,退化的眼睛，老花眼,thè-hoà ê ba̍k-chiu，lāu-lâng-ba̍k,,潘
+01B,020,pu du sak a dauik,pù du sàk a dāu-ik,視力良好,chèng-siông ê sí-la̍t， khong-kiān ê sí-la̍t,,潘
+01B,021,pakalixi,pà ka lixi,斜眼,tò chhah ba̍k,,潘
+01B,022,pauhek a balek,pâu hek a balək,獨眼,chít-ba̍k， iā kóng chhen-mê chit-poàn,,潘
+01B,023,maxiaeset,maxiaəsət,流眼淚,khàu ê sî lâu ba̍k iû,,潘
+01B,024,mueset,,流眼淚了,lâu-ba̍k-sái--a,,田
+01B,025,pauhek,pâu hek,瞎眼,chhen-mê， bô khoàn-kìn,,潘
+01B,026,kakezah,,眉毛,ba̍k-bâi,,田
+01C,001,muzing,muzing,鼻,phī， chhoán-khùi ê phī,,潘
+01C,002,tunu,tù-nu,鼻涕,phīn chúi á-sī phī-kô,,潘
+01C,003,paxitunu,paxitù-nu,擤鼻涕,chhèng-phīn ( laû-chhut ê,chhèng-chhut ê ),,潘
+01C,004,kuling,kuling,鼻屎,ta ê phīn sái  ,,潘
+01C,005,pitak,pitak,鼻屎膏,phīn-sái-kô,pī 與 pīn皆可.方音差,潘
+01C,006,kuling,kuling ,指人其貌不揚,kóng lâng sen láu pháin khoàn,,潘
+01C,007,talikak,talikak,塌鼻,kap téng bīn tâng-iūn,lap- phīn,pín- phīn,,潘
+01C,008,tusazek,tusazək,聞到,phīn-tio̍h  ,,潘
+01C,009,musazek,mu sa zək,聞到臭味,ū phīn-tio̍h chhàu-bī,,潘
+01D,001,sainga,sâi nga,耳朵,hī-á,hī 與 hīn皆可.方音差,潘
+01D,002,tuxunu,tuxunu,黏稠物,ko,,潘
+01D,003,sainga tuxunu,sâi nga tu xu nu,耳朵分泌物,hīn-á ko, hīn-sái-ko ,,潘
+01D,004,xalixu,xàlixu,耳屎，耳垢,hī-sái,,潘
+01D,005,pipisah,pi pi sah,穿耳洞,kn̍g-hī khang,,潘
+01D,006,makao,ma ka o,耳聾,chhàu-hī-lâng，bô thian-kìn,,潘
+01E,001,ahan,a-han,嘴,chhùi， kóng-ōe ê，chia̍h ê,,潘
+01E,002,babaungut,babaungut,人中,zîn-tiong， chhùi ê téng ē kiò zîn-tiong,,潘
+01E,003,maxa-ahan,mā xá a han,張嘴,chhùi khui-khui， hêng-tsōng,,潘
+01E,004,maxa-ahan,mā xá a han,無話可說,bô ōe tang kóng,,潘
+01E,005,adem,à dəm,闔上嘴,hàp chhùi，bô tín-tāng，thêng-chí kóng,見(   )條adem噓！不要說話,潘
+01E,006,adem,à dəm,噓！不要說話,si！mài kóng-ōe,見(   )條adem闔上嘴,潘
+01E,007,uidi,ūi-di,嘴唇,chhùi-tûn,,潘
+01E,008,dahama,dahama,舌頭,chhùi-chi̍h，chi̍h-thâu,,潘
+01E,009,atitang a lepeng,à ti tang ləpəng,蛀牙,chiù gê,,九
+01E,010,kudisen,kudisən,受創傷,siū-chhòng-siong,,九
+01F,001,lepeng,ləpəng,牙齒,gê-khí，chia̍h-mi̍h，pō•-noā,,潘
+01F,002,tatak a lepeng,tatak a ləpəng,門牙,chêng-pâi téng tsō khí，tī-thâu khí,,潘
+01F,003,oalis,oalis,虎牙,kak-khí，káu-gê,,潘
+01F,004,tata lepeng,ta ta ləpəng,牙齦,gê chô hoān,,潘
+01F,005,ahan iu-ngalas,à-han iu ngalas,上顎,téng-kiun,,潘
+01F,006,ngalas,ngalas,口腔，腔調,chhùi-khang ，khiun -kháu,,潘
+01F,007,hapat,hà pat,口水,chhùi-noā,,潘
+01F,008,hapas,,口水,chhuì-noā,,田
+01F,009,u-ngui,u ngui,流口水,lâu noā,,潘
+01F,010,singasen a lepeng,sìngasən a ləpəng,塞牙縫,khí-phāng，siap-gê,,潘
+01F,011,malipoak a lepeng,malipoak a ləpəng,牙周病,pāi-tsan，phànn khí ê gê khí,,潘
+01F,012,mipalau,mipalau,突出來,pok--chhut-lâi,,潘
+01F,013,mipalau a lepeng,mipalau a ləpəng,暴牙,pàu-gê,,潘
+01F,014,mipulax,mipulax ,煮粥水滾時的冒泡突出,chú-muâi chúi kún sî ê phok pho,,潘
+01F,015,magi lepeng,màgi ləpəng,齴牙-兇惡的露出牙齦,giàng-gê，hiong-ok lō•-chhut gê chô hoān,,潘
+01F,016,ngai ngia,ngai ngia,咬緊牙根,kā-gê，kā gê-khí-kin,,潘
+01G,001,henis,hènis,喘氣,chhoán-khùi,,潘
+01G,002,hehenis,he hènis,在喘,kè-sio̍k chhoán-khùi,,潘
+01G,003,heumi na,hêumi na,喘吧，命令式的,bēng-lēng，kā chhoán ā,,潘
+01G,004,muhenis,mù hēnis,呼吸,teh chhoán，ho• khùi,,潘
+01G,005,muhim,muhim,吹氣,chhoe-khì，pûn-khùi，ēng chhùi pûn,,潘
+01G,006,muzumut a hanis,mù zū mut a hanis,嘆氣,thàn-khì，hài ê sian-im,,潘
+01H,001,singau,,聲音,sian-im,單純一種聲音是singau；多種聲音是ngaungau,田
+01H,002,ngaungau,ngau-ngau,聲音,sian-im,,潘
+01H,003,pusingarux,pusingarux,回聲,hôe-im,,潘
+01H,004,pusingarux,pusingarux,蟲聲,thâng ê cha̍p-sian,,潘
+01H,005,pabalat,pabalat,回音，回答,hôe-im，hôe-tap,,潘
+01H,006,sahasa,sahasa,沙沙的聲響,sa sa ê sian-im,,潘
+01H,007,muxatis,muxatis,打噴嚏,phah kā-chhiùn,,潘
+01H,008,masuau,masuau,打呵欠,peh-ha， siūn ài-khùn,,潘
+01H,009,pahalats,pahalats,伸懶腰,chhun-ûn,,潘
+01H,010,madesek,madəsək,打噎,phah uh-á，phah-eh,,潘
+01I,001,dais,dais,臉,piáu-bīn，siòng-māu,,潘
+01I,002,xipu,,人臉,lâng-bīn,見( )條xipu雌的,田
+01I,003,oaka,òa-ka,下巴,chhùi-ē-táu,,潘
+01I,004,dadiman,dadiman,臉頰,chhùi-phé,,潘
+01I,005,pazemezem,pazəməzəm,托腮,thuh chhùi-ē-táu,,潘
+01I,006,mudus,mudus,鬍子,chhùi-chhiu,,潘
+01I,007,mukator,mukator,刮鬍子,thì-chhùi-chhiu,,潘
+01I,008,xalau mudus,xalau mudus,長的鬍子,tn̂g ê hô-chhiu,,潘
+01I,009,mupidis,mupidis,挽面,bán-bīn，khip kho•-mo•，hiàh-thâu pin,,潘
+01I,010,pipidis,pipidis,正在挽面,bán-bīn ê kòe-thêng,,潘
+01J,001,hahor,hahor,前頸,chêng-bīn ê ām-kún,,潘
+01J,002,salitik,salitik,後頸,ām-kún-soan,batalai巴宰語的後頸,潘
+01J,003,bakung,bakung,喉嚨,na-âu,,潘
+01J,004,mumuhimux,mumuhimux,潤喉,īong chhúi lūn-aû,,潘
+01J,005,abaxa,a baxa,肩頸,keng-thâu,,潘
+01J,006,mabazi,mabazi,搭肩,sio-moa keng-thâu,,潘
+01K,001,ima,ì-ma,手,chhiú,,田
+01K,002,gaigehan,gāigehan,腋下,kòe ē lang,,潘
+01K,003,binangoan,bìnangoan,手臂,chhiú-kó•-thâu,,潘
+01K,004,mugigeh,mugigeh,癢,ngiau-ngiau,,潘
+01K,005,kaligigehan,kaligigehan,怕癢的位置,kian ngiau ê ūi,,潘
+01K,006,tohais,tohais,狐臭,kó• chhàu,,潘
+01K,007,ziku,ziku,肘,chhiú-tiú,,潘
+01K,008,sagit,sagit,手掌,chhiú-chiún,,潘
+01K,009,kakamut,kakamut,手指,chhiú-cháin,,潘
+01K,010,tapupu,tapupu,大拇指,toā pu-ong,,潘
+01K,011,sapiatudu,sapiatudu,食指,kí-cháin,,潘
+01K,012,tutulu,tutulu,中指,tiong-cháin,,潘
+01K,013,rikit,rikit,小指,bóe-cháin,,潘
+01K,014,kalikux,kalikux,指甲,chéng-kah,,潘
+01K,015,pakapurut,pakapurut,指甲脫落,chhiú-cháin tōng tio̍h chio̍h，lut lo̍h chéng-kah,,潘
+01K,016,pu,pu,關節,koan-chat,,潘
+01K,017,mepupud,məpupud,拳頭,kûn-thâu bó,,潘
+01K,018,pubabek,pūbābək,脈搏跳動,hoeh-me̍h thiàu-tōng,,潘
+01L,001,zubuzup,zubuzup,胸部,hiang-khám，heng-khám,hiang-khám是噶哈巫( 閩南語 )特殊腔調,潘
+01L,002,surip,surip,胃凹處,sim-chô ê ūi,,潘
+01L,003,nunoh,nunoh,乳房,leng pâng,見(   )條nunoh婦女的乳房,潘
+01L,004,nunoh,nùnoh,婦女的乳房,hū-lú ê leng pâng,見(   )條nunoh乳房,潘
+01L,005,mununoh,mununoh,吸乳,suh-leng-chúi，chiū teh suh,見(   )條naunoh吸乳,潘
+01L,006,naunoh,naunoh,吸乳,suh-leng-chúi，chiū teh suh,見(   )條mununoh吸乳,潘
+01L,007,tatan,tātan,乳頭,leng-thâu,,潘
+01L,008,takaxang,tàkāxang,肋骨,pâi-kut，soàn-kut pâi,,潘
+01L,009,baxa,bàxa,肺,hì i chōng-hú-ê chit-pō-hūn,,潘
+01L,010,babu,bābu,心臟,sim-chōng,,潘
+01L,011,tian,tian,腹部,pak-tó•,,潘
+01L,012,tubu,tùbu,下腹部,chiū-sī ē to•,,潘
+01L,013,hahiut,hàhiut,腸,tn̂g-á,,潘
+01L,014,puzek,pùzək,內臟,lāi-chōng,,潘
+01L,015,tauku,tāuku,胃,ūi-chōng,,潘
+01L,016,taurotor,taurotor,膀胱,phōng-kong,,潘
+01L,017,asai,à sai,肝,koan-chōng,,潘
+01L,018,apuzu,à puzu,膽,tán,,潘
+01L,019,papurak,pāpurak,胰臟,chōng-hú ê chit-pō-hūn，io-chhioh,,潘
+01L,020,puza,puza,肚臍,tō•-châi,,潘
+01L,021,bukun,bukun,背,ka-chiah-phian,,潘
+01L,022,aipahan,aipahan,脊椎,io-chiah-kut,,潘
+01L,023,tibukun,tìbūkun,駝背,ún-ku,,潘
+01L,024,i-ing,i ing,腰,ē-io，io-tó•,,潘
+01L,025,iauoan,iauoan,腰骨,io-kut,,潘
+01M,001,papang,papang,胯下,kha-thúi ê siang kó• thâu，kaí-pin,,潘
+01M,002,mutut,,屁股,kha-chhng,,九
+01M,003,saix,saix,糞便,sái,,潘
+01M,004,masi-saix,ma si saix,排便,pàng-sái,,潘
+01M,005,musiax,musiax,上大號,chhoah-sái,,潘
+01M,006,mausai masisaix,mau sai ma si saix,要去大便,beh khì tāi-piān,,潘
+01M,007,mausai langu,mau sàai lā ngu,要去外面大便,beh khì goā-bīn  tāi-piān,,潘
+01M,008,pai-eh,pai eh,上硬便，便秘,pàng tēng sái,,潘
+01M,009,xexe-en,xə xə ən,使力如廁,tèn la̍t pàng,,潘
+01M,010,helet,helət,小便(尿),sió piān，ziō,,潘
+01M,011,pai-helut,pāi he lut,解小便,pàng ziō,,潘
+01M,012,buut,bù ut,屁,phùi,,潘
+01M,013,mubut,mu but,放屁,pàng phùi,,潘
+01M,014,tolak,tòlak,陰莖,ta-po•-lâng ê iông-bu̍t,,潘
+01M,015,lahing,làhing,陽具,lān-chiáu,,潘
+01M,016,lasu,lasu,陰囊,lān-pha,,潘
+01M,017,batu lasu,bàtu lasu,睪丸,pha-lông，lān-pha,,潘
+01M,018,papi,pàpi,陰部,tsa-bó ê，lú ê im-bu̍t,,潘
+01M,019,miat,miat,陰道,kāng téng bīn,,潘
+01M,020,sipa,sipa,陰道,kâng téng n̄ng-iūn，ēng tōng bu̍t pí chheng,(陰道的另一種雅稱，原意是鱉)見(   )條sì-pa鱉,潘
+01M,021,matatiu,matatiu,性交，合姦,tsò-ài，sèng-kau，lâm lù kau-ha̍p,,潘
+01M,022,mitiu,mitiu,性交，姦淫,sèng-kau，kan-îm,,潘
+01M,023,mai iat,mai iat,勃起,ta-po• lâng ê sèng-khì，oa̍t-phoah,,潘
+01M,024,pasoso,pāsôso,手淫,chhiú-îm,,潘
+01M,025,pisoso,pisôso,拉肚子,làu-sái,,潘
+01M,026,damu a buxoan,damu a buxoan,精液,cheng-ek,,潘
+01M,027,loak,loak,交合，趴上,ná tōng-bu̍t ê sèng-kau,,潘
+01M,028,tulala,tulala,尾巴,bóe-liu,,潘
+01M,029,hoholap tulala,hoholap,動物趴在動物之上,tōng-bu̍t phak tī tōng-bu̍t seng-khu téng,,潘
+01M,030,hoholap tulala,hoholap tulala,動物交尾,tōng-bu̍t kau-bóe,,潘
+01M,031,matalo,ma tàlo,懷孕,siū-nn̄g，ū sin-īn,,潘
+01M,032,pazng a hehong,pà zng a hè hong,肚爛,lah-sap ê，hā-chiān ê lâng,,潘
+01M,033,pazng,pà zng,尖銳,chiam ,,潘
+01M,034,tolahing,tolahing,杜爛（罵人用語）,mē lâng ná lān-chiáu,,潘
+01M,035,loak sai,loak sai,幹什麼？（罵人用語）,lí che sī sián-mih ì-sù,,潘
+01N,001,karau,karau,腳，足,kha,,潘
+01N,002,sasaisan,sasâisan,大腿,toā thúi thâu,,潘
+01N,003,ilas,i las,膝蓋,kha-thâu-u,,潘
+01N,004,ilas salaman,i las salaman,膝蓋骨,kha thâu u oán,,潘
+01N,005,musipu,mùsīpu,跪,kha kūi-lo̍h,,潘
+01N,006,hakit,hakit,脛骨,phīn liâm kut,,潘
+01N,007,pupu,pūpu,關節彎處,koan-chat kut ê chiap-ūi,,潘
+01N,008,lalenai,lalənai,前腳踝,chêng ê kha-khò•,,潘
+01N,009,papunai,papunai,腳踝,kha khò•,,潘
+01N,010,pakarenai,pakarənai,脫臼,thoat-khù,,潘
+01N,011,dadapan,dadapan,腳底,kha-tê，kha-ìn， ìn-kì,,潘
+01N,012,sakakela,sakakəla,穿鞋子,chhēng-ê，an-ún kiân,,潘
+01N,013,pasasapin,pasàsāpin,穿鞋子,chhēng-ê，an-ún kian,,潘
+01N,014,kubukut,ku bu kut,腳後跟,kha-āu-kin,,潘
+01N,015,mapueper,mapuəpər,腳麻,kha bâ-pì,,潘
+01N,016,mai-iai,mai iai,跛腳，長短腳,pái-kha，è-ray， tn̂g-té kha,,潘
+01N,017,mairay,mai ray,跛腳，長短腳,pái-kha，è-ray， tn̂g-té kha,,潘
+01N,018,pupu,,小腿,sió-thúi,見(   )條pupu腳踝,田
+01N,019,pupu,,腳踝,kha-ba̍k,見(   )條pupu小腿,田
+01N,020,zikin,zikin,腳下節，小腿,kha-ki,,潘
+01O,001,buxu,bu xu,身體,seng-khu ê tsóng-chheng,,潘
+01O,002,apai,a-pai,皮,phôe-hu，phôe ê tsóng-chheng,,潘
+01O,003,rapai,ra pai,皮,phôe-hu，phôe ê tsóng-chheng,,潘
+01O,004,murapai,mu ra pai,脫皮,thǹg-phôe，oān phôe，mù a pai,,潘
+01O,005,pudipurus,pu di pu rus,雞皮,ke ê phôe gô ê phôe,,潘
+01O,006,maubus,mâu bus,皺紋,ziâu-hûn，ziâu-bīn,,潘
+01O,007,marabes,mà rā bəs,皺紋,ziâu-hûn，ziâu-bīn,,潘
+01O,008,maumas,,皺紋 ( 不完整，有皺紋的狀況 ),ziâu-hûn,,田
+01O,009,sinat,si nat,胎記,thai-kì，o ê á-sī o-chhen,,潘
+01O,010,nanai,nà nai,黑痣,o• kī,,潘
+01O,011,tu li kan,tu li kan,紋身，刺青,chhiah-chhen，bûn-sin，tsá-sî ê hū-lú,其他含意：刺繡/挑花/圖騰,潘
+01O,012,ti na bu kan,tì na bù kan,男人紋身,ta-po• lâng ê chhiah-chhen,,潘
+01O,013,da xang,da xang,汗水,kōan chúi，lâu-kōan,,潘
+01O,014,supizang,su pi-zang,雞皮疙瘩,ke-bó-phôe,,潘
+01O,015,ngi rau,ngi rau,嘴邊的髒汙,móa-bīn，chhùi-pin lah-sap,,潘
+01O,016,da mu,da mu,血,hoeh,,潘
+01O,017,da mu ho hat,dà mu hò hat,血管,hoeh-kin，hoeh-kńg,,潘
+01O,018,ba ba zu，ba ba zu,ba ba zu，ba bā zu,月經,hū-lú lâi sé,,潘
+01O,019,bun,bun,骨頭,kut，kut-thâu,,潘
+01O,020,tunu,tù-nu,腦髓,chhóe，kut-chhóe,,潘
+01O,021,umut,ù-mut,肉,bah,,潘
+01O,022,pidis,,體毛,sin-khu ê mo•,,田
+01P,001,mibulak,mì-bū-lak,腫，膨脹,chéng，phòng,,潘
+01P,002,mabunu,mà-bū-nu,發炎,chéng，hoat-iām,,潘
+01P,003,mupupet,mu-pu-pət,按摩,tān sin-khu，( hù-lit-sì ),,潘
+01P,004,sisiup,sì-siup,擦拭，擦乾,chhit，chhit-ta,,潘
+01P,005,lai silit iu,lai sì-lit iu,擦藥,boah，boah io̍h-á,,潘
+01P,006,maumats,mâu-mats,揉，皺皺的,zôe，ziâu-ziâu,,潘
+01P,007,pusus,pùsus,燙傷膿腫,chéng phòng-kui,,潘
+01P,008,langa,lànga,化膿,ū lok-lâng，sen li̍p-à,,潘
+01P,009,raden langa,ràdən lànga,膿包,lâng-pau，liàp-á lâng,,潘
+01P,010,raden,ràdən,放置,khǹg,,潘
+01P,011,sap-pai,sap-pai,老化代謝掉的皮膚表皮,là-sap-phôe，bô-sé seng-khu,,潘
+01P,012,maxadamu,ma xa dà mu,流血,chhut-hoeh，lâu-hoeh,,潘
+01P,013,mabunux,mà bū nux,水腫,chéng-phā，chúi-chéng,,潘
+01P,014,tamamu,tà mā mu,啞巴,é káu，bē kóng-ōe ê,,潘
+01P,015,katipelepelan,katipələpəlan,胃酸逆流,ek-sng,,潘
+01P,016,tahaiak a muhenis,tahaiak a mùhēnis,氣喘，蝦龜,khì-chhoán，hê-ku, chhoán-khùi bô-lat,,潘
+01P,017,tilau-uik ahan,tilau uik a han,兔唇,khih-chhùi，chhin-chhiūn thò•-á chi̍t-iūn,,潘
+01P,018,mapuhau,mapuhau,沙啞,sau-sian,,潘
+01P,019,pakehekeh,pakehekeh,乾咳,ta-sàu，á sī tī goā-bīn báng zi̍p-chhùi,,潘
+01P,020,makohor,makohor,咳嗽,kháu-sàu，ū pen ê sàu,,潘
+01P,021,maxinga,,生病,phoà-pēn,,田
+01P,022,mai xi nga,mai xi nga,生病,phoà-pēn,,潘
+01P,023,mi xi nga,mi xi nga,呻吟,hain-chhan,,潘
+01P,024,mi ke der,mī kə dər,久病,êng uàn phòa-pēn,,潘
+01P,025,mepeeper,məpəəpər,微恙，若有若無的病,ū ná bô ê pēn,,潘
+01P,026,pepe,pəpə,久站腳麻,khiā kàu kha pì-pī,,潘
+01P,027,mainu,,痠,sng,,田
+01P,028,asikis,a sikis,痛,thiàn,,潘
+01P,029,inasiksikis,inasiksikis,痛極了,kàu-ke̍k ê thiàn,,潘
+01P,030,pubabuk asikis,pubabuk asikis,痛到發抖,thiàn kàu tiô kha chhoah,,潘
+01P,031,mabuxibuk,mabuxibuk,全身疼痛,thong seng-khu thiàn liáu- liáu,,潘
+01P,032,maxahaidang,maxahaidang,天花,chhut-chu，thian-hoa,,潘
+01P,033,maxadialai,maxadialai,水痘,chhut chùi tsu,,潘
+01P,034,pusilit,pùsīlit,瀉痢,pak-sià，làu-sái,,潘
+01P,035,mazikin,mazikin,寒熱病（瘧疾）,koân -zia̍t-á，ma-la-li á,,潘
+01P,036,maxasiang,maxasiang,麻痺,bâ-pì,,潘
+01P,037,ba kuai,ba kuai,甲狀腺腫大,toā-ām-kui,,潘
+01P,038,he-eher,hə ə hər,氣喘,khì-chhoán,,潘
+01P,039,kalamikan,kà lami kan,感冒，受寒，著涼,siū-hân，kám-mō•,,潘
+01P,040,dekesan,dəkəsān,被水燙傷,thǹg-siong,,潘
+01P,041,rezaden,rəzadən,燒傷，火傷,siū-siong，hóe pû-siong,,潘
+01P,042,mabunux,mabunux,腫脹,chiáng-toā，phòng,噶哈巫 (閩南語)特殊腔口,潘
+01P,043,mahahop í,mahahop í,消腫,siau-chiáng thè-hông,噶哈巫 (閩南語)特殊腔口,潘
+01P,044,mabetebet,mabətəbət,胃痛,ūi-thiàn,,潘
+01P,045,ko heh,ko heh,疥癬,kài-sián,,潘
+01P,046,sikohehan,sikohehan,生癬,sen sián,,潘
+01P,047,xi lax,xi lax,金錢癬,kim-chîn sián,,潘
+01P,048,ka nen dalem,kà nən dàləm,香港腳,tio̍h-chhi,,潘
+01P,049,zezet titai,zəzət titai,牛皮癬,gû-phôe sián，chhí，gè ,,潘
+01P,050,dedexe,dədəxə,看護，照顧,khàn-hō，khoàn-kò•,,潘
+01P,051,takarat,takarat,醫師,i-su，i-seng,,潘
+01P,052,taka'at,,醫生,i-seng,,田
+01P,053,baibai,baibà i,醫治,i-tī,,九
+01P,054,sapiken,sapikən,治療,tī liâu，kô•-io̍h,,九
+01P,055,sapiken,sapikən,糊藥,kô•-io̍h,,九
+01P,056,kudit,ku dit,傷處,siong-hāi，siong-chhù,,潘
+01P,057,kuditsan,ku dit sān,受傷,siū-siong，kūn-á phah-siong,,潘
+01P,058,luka,lù-ka,乾傷,kian-phí ê siong-kháu,,潘
+01P,059,budis,bu dis,傷疤,liap-á-hûn，phí，ziah,,潘
+01P,060,makakat,ma ka kat,癢,chiūn- chiūn,,潘
+01P,061,kakaxau,ka ka xau,抓癢,ngìau-chiūn,,潘
+01P,062,mukakaxau,mu ka ka xau,撫摸癢處,teh so-ngìau,,潘
+01P,063,kakaxaui,ka ka xaui,正在癢,teh ngiau,,潘
+01P,064,kulitan,ku lit àn,難看的皺紋,niau ê ziáu-pê,,潘
+01P,065,kinurit,ki nu rit,皮皺皺，皺紋,ziáu-pê，ziáu-hûn,,潘
+01P,066,kuhutan,ku hut àn,挫傷，擦傷,chhè-siong，koeh-tio̍h,,潘
+01P,067,iu,ìu,藥,i io̍h,,潘
+01P,068,musapit,mu sapit,擦藥，醫治,kô•-io̍h，i tī,,潘
+01P,069,sapiten iu lia,sapit ən iu-lia,貼藥膏,tah io̍h ko•,,潘
+01P,070,iak lia,iak lia,痊癒,i-hó à,,潘
+01P,071,puihiat,pu i hiat,死亡,sí-bông,,潘
+01P,072,haidng a buxu,hāi dng ā bùxu,懷孕,hoâi-īn，sin-thé tāng,,潘
+01P,073,matau a tian,ma tau ā tian,大肚子,toā-pak-tó•，ū sin,,潘
+01P,074,pai san,pâi san,生產,seng-sán，sen-kián,,潘
+01P,075,maukhehan,mà u khèhan,生育,seng-io̍k,,九
+01P,076,maukhehan,ma u khe han,生子,sen-kián，gín-á chhut-sì,,潘
+01P,077,maukat a daki,mà ū kat a da-ki,胎胞，胎盤,chhut-ui，gín-á ui，thai-ui,,潘
+01P,078,talubik,ta lu bik,流產,ka-lauh， sin，liû-sán,,潘
+01P,079,kalamik,,受寒,kuân-tio̍h,,田
+02A,001,mikita,mi ki ta,看，觀看,khoàn，koan-khoàn,,潘
+02A,002,talauoats a mikita,talauoats a mi ki ta,仰視,ǹg téng-bīn khoàn,,潘
+02A,003,taxibubuk a mikita,taxibubuk a mi ki ta,俯視,ǹg ē-bīn khoàn,,潘
+02A,004,mikita iu kinixidan,mi ki ta iu ki ni xi dan,側看,khoàn phian-pin,,潘
+02A,005,mikita iu tababeia,mi ki ta iu ta ba be ia,回頭看,hoan-tńg thâu khoàn,,潘
+02A,006,mikita iu roholat,mi ki ta iu ro hooat,向前看,ǹg thâu chêng tit-khoàn,,潘
+02A,007,maxi-i-lak,màxí ì lak,瞪眼,iōng gîn ê bàk-chiu khoàn,,潘
+02A,008,maraki,ma ra ki,偷看,thau khoàn，iōng thau chhip ê,,潘
+02A,009,maitiu a daurik,mai tiu a dau rik,用偷看的,iōng thau khoàn,,潘
+02A,010,zangau,,透視,thau-chip,,田
+02A,011,makarixi a daurik,ma ka ri xi a dau rik,斜視,siâ-sī， khoàn khi-khi,,潘
+02A,012,eh,,瞧! ,ín lâng koan-khoàn than-zîn ê hêng-uî,,田
+02A,013,manaip,,閉眼,ba̍k-chiu kheh-kheh,,九
+02A,014,muuhik,,眼花、目眩,ba̍k hoe,,九
+02A,015,makita,ma ki ta,相親,siòng-chhin，sio-khoàn,,潘
+02A,016,iaiahan,ia ia hân,觀望,koan-bāng,,潘
+02A,017,zazangai,za za ngai,薄衣,po̍h-ti-ti ê san,,潘
+02A,018,zazangau,za za ngau,透視,thàu-sī,見()條透光,潘
+02A,019,tumala,tu ma la,聽,thian,,潘
+02A,020,tumala-i,tu ma lai,聽聞,kā thian，thian khoàn lē,,潘
+02A,021,taumala-i,tau ma lai,再聽聽,ka thian nē,,潘
+02B,001,mahatan,ma ha tan,笑,chhiò，hoan-hí,,潘
+02B,002,kalihatan,ka li ha tan,博人笑,hō• lâng ē ài chhiò,,潘
+02B,003,masakau mahatan,mà sā kau mà hā tan,偷笑,thau-chhiò,,潘
+02B,004,ma sa a tik atik,ma sa à tik ā-tik,哈哈大笑,toā-chhiò-pî,,潘
+02B,005,hahatan,,微笑,bî-bî-á-chhiò,,田
+02B,006,mahatahatan,mà-ha-ta hā-tan,大笑，幸福的歡笑,chin-hoan-hí，toā-chhiò,,潘
+02B,007,madaaxan,ma da a xan,不正經的,tèn siáu-chhiò，kek khong-gōng,,潘
+02B,008,mangit,mà ngit,哭,khàu,,潘
+02B,009,mangi-i dai,ma ngi i dai,嚎啕大哭,khàu bē soah,,潘
+02B,010,kaliangit dai,ka li a ngit dai,因事而哭,chin siūn beh khàu,,潘
+02B,011,masakau mangit,mà sā kau mà ngit,偷哭,thau-thau á khàu,,潘
+02B,012,maxaloalu,ma xa loa lu,傷心地哭,siong sim kàu-kek,,潘
+02B,013,muxusak,muxusak,停止哭泣,thêng-hioh ê khàu,,潘
+02B,014,maeset,ma ə sət,正在哭,tng-leh-khàu,,田
+02B,015,xese ki a mangit,xə sə ki a ma ngit,停止哭泣,thêng-chí khàu,,潘
+02B,016,masaratik,ma sa ra tik,大叫(悲喜苦痛),toā kiò sian，hoan hí,,潘
+02B,017,kikiliu,ki ki liu,呼喊,tng teh-kiò,,潘
+02B,018,mikiliu,mi ki liu,喊叫,hoah-kiò，hiu ê，hoah-hiu,,潘
+02B,019,taangit,,鳴叫,bêng-kiò,,九
+02B,020,ngawngaw,,鳴叫聲,bêng-kiò sian，se̍h-se̍h-liām ,,九
+02B,021,ngazip-,,咬,kā,,田
+02B,022,mungazip,mù-nga-zip,咬,kā，ēng-chhùi-khí kā，kā-míh,,潘
+02B,023,ngazipen,nga-zip ən,被咬,kā-tióh，kā-khí kā，kā-kòe à,,潘
+02B,024,muximux,,偷啃,tau gé,見(   )條偷啃；,九
+02B,025,usa kiliu-i,u sa ki liu i,去叫他來,khì kiò i lâi,,潘
+02B,026,a nui,a nui,掉落，遺失,ka-laúh mi̍h，á-sī m̄-kiàn,,潘
+02B,027,pa sia za mat,pà sia za mat,可惜，浪費，失物,chin phah sńg，théh bô tiâu， iā-sī kóng lōng-hùi ê ì-sù,,潘
+02B,028,muximux,,漱口,sé-chhùi,見(   )條漱口,九
+02B,029,hapat,,吐口水,phuì chhuì-noā,,田
+02B,030,mudaux,,喝,lim,,九
+02B,031,kabazai,,告訴、使知道,ka kóng，ho• chai-ián，thong-ti,,九
+02B,032,kakawas,,告訴;說,ka kóng，kóng,,九
+02B,033,kabazai,,通知,,,九
+02B,034,mudukas,,稱讚,o-ló,,九
+02B,035,ngawngaw,,喋喋不休地,,,九
+02B,036,maxa'ahan,,張嘴,chhùi peh-khui,,九
+02C,001,mutono ,mu to-no,拳打，打,chiang，phah，lòng,,潘
+02C,002,tono-en,tò-no ən,打人,lī-iōng kun-thâu-bó phah-lâng,,潘
+02C,003,matonotono,ma to no to no,相互拳打,san-tûi ，sio-tûi,,潘
+02C,004,kudungmukudung,kù-dung-mu-kù-dung,以柴枝或其他武器打,kòng，beh-kòng,,潘
+02C,005,ma kudu kudung,ma kù-du kù-dung,以棍打,sio-kòng，iōng kùn-á phap,,潘
+02C,006,mu tutoh,mu tù-toh,投擲,tìm,,潘
+02C,007,pana,,丟擲,tàn,,九
+02C,008,kalu batu mututoh,kà lū bà-tu mù tū-toh,投擲石頭,iōng-chio̍h-thâu，sio- tìm,,潘
+02C,009,satapèt,sà-tā-pèt,摑耳光,sai，koat， koat chhuì-phé,,潘
+02C,010,musatapet,mu-sā-tà-pet,開玩笑的打耳光,beh-koat,,潘
+02C,011,matapet,mu-tā-pet,打他耳光,sai-lo̍h-khì,,潘
+02C,012,baket,bà-kət,掃打,siāu，iōng-pùn-tan péng,,潘
+02C,013,mubaket,mù-ba-kət,欲打屁股,beh-siāu,,潘
+02C,014,mubaku baket,mù-ba-ku bà-kət,互相拍打,san-siāu，san-phah,,潘
+02C,015,kolok,ko-lok,槓打架,sio-kòng，sio-phah,,潘
+02C,016,mukolok,mu-kò-lok,正在互相挵打,teh san-lòng，kòng,,潘
+02C,017,kokolok,ko-kò-lok,對打,san tùi-lòng，kòng,,潘
+02C,018,te ber,tə bər,搥,tûi,,潘
+02C,019,mu teber,mu tə-bər,搥肩頸,beh-tûi，iōng kûn-tâu-bó,,潘
+02C,020,te teber,tə tə-bər,正在搥打,teh-tûi tī keng-thâu,,潘
+C,021,matebetebe,matebetebe,兩人相互搥打,,,
+02C,022,kudung,,打，拿棍子打,phah,,田
+02C,023,mu haui,mù hā-ui,鞭打(於牛)趕(牛),kóan， kóan-gû,,潘
+02C,024,ha haui h,ha hà-ui h,正在鞭打(於牛)正在趕(牛),teh phah-gû，teh koán-gû,,潘
+02C,025,tuting,tù-ting,箠打,tia̍p,,潘
+02C,026,mututing,mù tū-ting,正挨箠打,teh-beh tia̍p,,潘
+02C,027,tutingen lia,tù-ting ən liā,被箠打了,hō• lâng tia̍p--a,,潘
+02C,028,tauting,taū-ting,藤條、箠尺,chhôe-á,,潘
+02C,029,bukin,bu-kin,打大腿,siàn tōa-thúi ê só•- chāi,,潘
+02C,030,mukizip,mù-kī-zip,擰，捻,liàm，chia̍h-chí，toā-chí hap lia̍p,,潘
+02C,031,mukizip,mù-kī-zip,捻斷， 捻皮膚,liàm tsò koe̍h，liàm tn̄g，liàm phôe.,,潘
+02C,032,muliut,mù-liut,轉，捻擰，指壓,chūn，liàm-chūn，tī phôe-beh,,潘
+02C,033,muliut,,擰,iōng chhiú chūn,,田
+02C,034,ma padudu,ma pa-du-du,招呼，拍打,san póe-chhiú，chio-chhiú,,潘
+02C,035,mubilis,mù-bī-li-s,握住,gīm tī chhiú，gīm-téh,,潘
+02C,036,mu bu ko,mù bū ko,按住（”開”車）,hoān， hoān-teh，ūn-choán-chhiú,,潘
+02C,037,muku mux,mù-kū mux,抓，拎，掠,lia̍h， lia̍h-tī， lia̍h-chián，ná-chū,,潘
+02C,038,mukumux,,捉,lia̍h,,九
+02C,039,pasangan,pà-sā-ngan,溜手，放掉,liù-chhiú，pàng-tiāu，pàng-sak,,潘
+02C,040,mu tutoh,mù-təh ən,投擲,tùi koân ê só•-chāi tàn-lo̍h,,潘
+02C,041,tauteng,tâu-tèng,投擲,tùi koân ê só•-chāi tàn-lo̍h,,潘
+02C,042,patehen,pa təh ən,投擲石頭丟人,lōng-chio̍h-thâu tàn-lâng,,潘
+02C,043,muh-pana,muh pa-na,投石精準的,chún-khak，chún-tauh，tiòng-sim,,潘
+02C,044,dapadap,dā pà-dap,擦桌椅,chhit toh-í,,潘
+02C,045,muxalit,mu xa-lit,牽，拖，拉,khan，giú，thoa,,潘
+02C,046,xaliten,xà-lit ən,牽起來，拉起來,khan-khí，giú-khí,,潘
+02C,047,bitutun,bì-tut-un,扯,tio̍h，chhoah，khau,,潘
+02C,048,mutebe,mu tə-bə,用拳頭打,chiang，phah，lòng,,潘
+02C,049,biibizu,,正在寫,tng-leh-siá,,田
+02C,050,ma'a,,拿,the̍h,見(   )條ma'a抓,田
+02C,051,ma'an,ma an,伸手去拿,chhun-chhiú khì the̍h,,田
+02C,052,mubili,,拿著,the̍h--leh,,田
+02C,053,ma'a,,抓,lia̍h,見(   )條ma'a拿,田
+02C,054,mabadi,,擁抱,sion-lám,見(   )條mabadi搭肩,田
+02C,055,mabadi,,搭肩,sion-mua,見(   )條mabadi擁抱,田
+02C,056,sapoh i sasapoh,sà-poh i sa sa-poh,正在掃,tng-leh-sàu,,田
+02C,057,mati-kakumus,,戴帽子,tì bō-á,,九
+02C,058,buax,,劈(柴),phoà(chhâi),,九
+02C,059,waawalak,,分散；分配(waawalak palizax a xalam),hun-soàn ,hun-phòe,,九
+02C,060,tizup,tizup,點火,tiám-hóe,,九
+02C,061,tatangai,,打開,phah-khui,,九
+02C,062,hakus,hàkus,搬,poan,,九
+02C,063,mati-mader a kakumus,,戴硬的帽子(安全帽),tì teng ê bō-á(an-choân-bō),,九
+02C,064,tahim,,倒酒,thîn-chiú,,九
+02C,065,mubuax,,澆水,ak-chhúi,,九
+02C,066,kaxati,kaxat-i,削,siah,,九
+02C,067,musapik,,糊藥,kô•-io̍h,,九
+02C,068,susuku,,量長短,lîun tn̂g-té,,九
+02C,069,patizup,,放火；點火,pàng-hóe tiám-hóe,,九
+02C,070,masibibizu,,在練習寫字,teh liān-si̍p siá-zī,見(   )條在練習寫字--25類文教類,九
+02C,071,su'uh,su'uh,舂,cheng,,九
+02C,072,maxalit,maxalit,拉拔，拔出,poát-chhut，giú-chhut，giáu-chhut,,潘
+02D,001,me te zek,mə tə zək,用腳踢 踢,iōng-kha-chàm，that,,潘
+02D,002,te zek en,tə zək ən,踢去了,kā that-chhut,,潘
+02D,003,ma tezetezek,ma tə-zə-tə-zək,互踢,san-tùi that，sio-that,,潘
+02D,004,ka kela,kà kə-la,踏上踏,ta̍h，ta̍h tī téng-bīn,,潘
+02D,005,kakela en,kà-kə-la ən,踩到了,ta̍h-tio̍h,,潘
+02D,006,mukakela,,在踏,leh ta̍h,,九
+02D,007,dake daken,da-kə da-kən,踏錯了,ta̍h-ta̍h，la̍p-la̍p,,潘
+02D,008,da dadek,da da-dək,故意踩碎 踩到大便,ta̍h-tio̍h sái-tui,,潘
+02D,009,ma pi lutut,ma pì lu-tut,跳過溝,thiàu， thiàu--kòe-khì， thiàu-kòe kau,,潘
+02D,010,tixa lapu,ti-xa la-pu,跳過障礙,thiau-kòe kau，khiah，chiòng-gāi,,潘
+02D,011,pi lutut,pi lū-tut,跳躍,chháu-meh thiàu，sì-kè thiàu,,潘
+02D,012,te ha let ,tè hā lət,如孩童般跳躍,sè-hàn ê gín-á teh thiàu-lâi，thiàu-khì,,潘
+02D,013,pi de ke dek,pi də kə dək,跳進水中,thiàu-zíp chúi，tîm tī chúi,,潘
+02D,014,tilaka s,ti-la-ka s,跨步，踩過,khoà-pō•，ta̍h-kòe-tsúi,,潘
+02D,015,tikiti,tikiti,墊腳尖,īong kha-tsáin khiā， nih-kha-bóe,,潘
+02D,016,maitalam,,正在跑步,tng-leh cháu,,田
+02E,001,ma sikela,ma si-kə-la,相遇，相會,siōng-hōe，tú-ti̍oh，san-gū,,潘
+02E,002,ma i leket,ma i lə-kət,偶遇,bô-gî-gōê，tú-tióh,,潘
+02E,003,maxutaxa,maxu taxa,等待,thèng-hāu，tán-thāi,,潘
+02E,004,xutaxay,,等待；等吧,tán-thāi，ka tán,,九
+02E,005,maxetaxa,ma xətaxa,正在等待,teh-tán，teh-thèng-hāu,,潘
+02E,006,maubabaza,mau ba-ba za,模仿,teh-óh，óh-iūn,,潘
+02E,007,matu azang,mà-tu à-zang,搞怪，做樣子；形容表現不尋常,pìn-kúi-pìn-koài，ké-ián chò hō•-lâng koàn ; koài-iūn，kò-iūn,,潘
+02E,008,de dekat,də də-kat,稱讚,chheng-chàn，o-ló,,潘
+02E,009,mu dekas,mu dəkas,稱讚,chheng-chàn，o-ló,,潘
+02E,010,mikitaeset,mi-ki-taə-sət,尊重，尊敬,kèng-tiōng，chun-tiōng，chun-kèng，kàng-kè ka-tī,,潘
+02E,011,ma ngo o ngo,ma ngo o ngo,責罵,teh-mē-lâng,,潘
+02E,012,ka la hi,kà lā hi,欺騙,khi-phiàn，phiàn-lâng,,潘
+02E,013,ma han,ma han,虛假不實在的欺騙,phiàn，bô-sít-tsāi,,潘
+02E,014,bubukin,bu-bu-kin,處罰,chiū-sī， chhú-hoat,,潘
+02E,015,e sem,ə səm,壓手指(處罰),chhíh， chhíh-cháin，(chhú-hoat),,潘
+02E,016,esemem,əsəməm,壓手指(處罰),chhíh， chhíh-cháin，(chhú-hoat),,潘
+02E,017,ta pa subin,tà pa sù-bin,哀求，懇求,ai-kiû，pài-thok，khún-kiû,,潘
+02E,018,ma pa a,mā pâ a,幫助,taù-kha chhiú，pang-bâng,,潘
+02E,019,miba,mi-ba,抓住手握臂,gīm–tiâu gín-á ê chhiú，lám-teh,,潘
+02E,020,a pin,â pin,照顧小孩,chiàu-kò•  gín-á,,潘
+02E,021,lalua,lā-lùa,搖動小孩,io，phō sè-kìán tī heng-chêng,,潘
+02E,022,la la lua,la lā lû-a,在背上在搖小孩,teh iô，tín-tāng,,潘
+02E,023,mezezep,məzəzəp,吻,chim,,潘
+02E,024,zezep-i,zəzəp i,吻她/他一下,kā-chim chi̍t ê,,潘
+02E,025,mu lung,mu lung,帶領，送行,tòa-niá，song-hêng，ín-chhoā,,潘
+02E,026,ma lep,ma ləp,招手揮手,iát，iat-chhiú，chio-chhiú,,潘
+02E,027,mahadakan, sau,ma-ha-da-kan, sau,通知,chhián，thong-ti ，thiap,,潘
+02E,028,mukizip,mù-kī-zip,擰，捻,1.hián-chhut，2.bin-chêng，3.ū-ìiau-chhián.,,潘
+02E,029,muliut,mù-liut,轉，捻擰，指壓,tsūn，liàm-tsūn，tī phôe-beh,,潘
+02E,030,ma padudu,ma pa-du-du,招呼，拍打,san póe-chhiú，chio-chhiú,,潘
+02E,031,mutangut,mū-tà-ngut,點頭以禮,tòm-thâu，kèng-lé,,潘
+02E,032,ka xa dumu,ka xā dù-mu,虐待,lêng-tī，lêng-ziók，gék-thāi,,潘
+02E,033,pa sia seau,pa sia sə-au,攪擾打擾,kiáu-ziáu，chok-nāu,,潘
+02E,034,mutubi,mù-tū-bi,鬧彆扭,tiun，nāu，bô-chhèng-ì，put-hók,,潘
+02E,035,pasangan,pà-sā-ngan,溜手，放掉,liù-chhiú，pàng-tiāu，pàng-sak,,潘
+02E,036,patalubit,pà-ta-lù-bit,掉下，任其滑下,liu-lòh-khì,,潘
+02E,037,talubit,tà-lū-bit,滑下，無意溜掉,bô ì-tiong ka-laúh,,潘
+02E,038,mu hazing,mù hā-zing,丟棄,hiat-ka̍k hìn-sak，mài,,潘
+02E,039,mu deken,mù də-kən,撿起,khioh，khioh-khí，khioh-míh,,潘
+02E,040,u sa ki liu i,u sa ki liu i,去叫他來,khì kiò i lâi,,潘
+02E,041,a nui,a nui,掉落，遺失,ka-laúh mi̍h，á-sī m̄-kiàn,,潘
+02E,042,pa sia za mat,pà sia za mat,可惜，浪費，失物,chin phah sńg，théh bô tiâu， iā-sī kóng lōng-hùi ê ì-ù,,潘
+02E,043,mu ka tek,mù kā tək,走路時輕觸撞到,kiân-lō sî kin-kin-á tak-ti̍oh，lōng-ti̍oh,,潘
+02E,044,ka teken,kà tək-ən,碰到了,tio̍h-tak-ā,,潘
+02E,045,muxamaxam,mù-xa-ma-xam,暗中摸索,àm-àm-bong，chhin-chhiūn,,潘
+02E,046,ma xa xam,mā xâ xam,在袋中摸索,chhiú zîm tī tē-á-lāi,,潘
+02E,047,lalubusan,là-lù-bu-san,伸入袋中摸索,chhun-chhiú，zîm pò•-tē-lāi,,潘
+02E,048,du duai，do do ai,du dù-ai，do do ai,擦拭手中物,tshit tshiú--li ê mi̍h-kiān,,潘
+02E,049,da padap,dā pà-dap,擦桌椅,chhit，toh，í，pàt-mi̍h,,潘
+02E,050,pu puzut,pū pu-zut,鑽（用手指鑽）,tsǹg，īong-chéng-thâu-à tsǹg,,潘
+02E,051,mula lng ngets,mu-lā lng ngəts,搖動,iô，iô-poe，iô-chhiù-á,,潘
+02E,052,la lng ngets,la lng ngəts,搖動，繼續,tit-tit iô，iô-tāng,,潘
+02E,053,ti ti lu,ti ti lu,懸掛物吊掛著晃動 形容果實結實纍纍,hàin-ā，hàin，tin-tong-tin,,潘
+02E,054,ti ilen,ti ʔi-lən,盪鞦韆,katī teh hàin，hàin kông-chhiu,,潘
+02E,055,mu dudun n,mù du-dun n,推一邊互相推擠,sio-e sio-chin,,潘
+02E,056,ma zepe zepet,ma zə-pə zə-pət,狹窄擠在一起,sio-chin sio-e，chē-chē-lâng,,潘
+02E,057,mu ha-lat,mu ha-lat,伸展開來,thoàn-khuì，chhun-khui，thoàn-tn̂g,,潘
+02E,058,mu de-det,mu də-dət,壓下,teh，teh-lo̍h，teh-tāng,,潘
+02E,059,mu pepet,mù pə-pət,壓榨,zi̍h，zi̍t-chàt-chàt,,潘
+02E,060,mekemet,məkəmət,按摩很緊實,àn-àn，zih-zih, (即massage),潘
+02E,061,pe peder,pə pə-dər,緊勒，緊握,tēnê， tēn-tēn,,潘
+02E,062,mu iit,mu i-it,榨出，擠出,chek，chek-chhut,,潘
+02E,063,puzutan,pu-zu-tan,痛苦,siū-siong ê thiàn，chhák-chiam,,潘
+02E,064,mubuiak,mù-bū-iak,應用，整理維修,teh-siu-chéng，tsò-khang-khòe,,潘
+02E,065,bau iak kai,bāu iak kai,未來使用之備,chiáng-tē，khai-khún,,潘
+02E,066,ma xamut,mà xa-mut,遺失,sit-lóh m̄ -kiàn,,潘
+02E,067,sa ke len,sà kə lən,短缺，用完,iōng-khí，bô kàu-gia̍h,,潘
+02E,068,mu suzuk,mù su-zuk,隱藏，藏起來 ,chhàng，khǹg--khì-lâi,,潘
+02E,069,mu i iakx,mù i iakx,尋找,chhōe，chhiau-chhōe,,潘
+02E,070,i'iak,,找,chhōe,見(   )條i'iak訪、(  )條i'iak問,田
+02E,071,i luma en,ʔi lū-ma ən,走尋,chaú-chhōe，tiâu-cha,,潘
+02E,072,pa kita,pa kì-ta,指示,chí-sī,,潘
+02E,073,madu,ma-du,放置,khǹg ，hē，hòng-tì,,潘
+02E,074,adu en,à-du ən,收拾,siu-síp,,潘
+02E,075,adu-i,à-du ī,置放,khǹg-hia，hē，hòng-hia,,潘
+02E,076,mapat,ma-pat,堆集,hē，chò-tui，chit-tui，thiap,,潘
+02E,077,apat en,a-pat ən,疊起,thiap，thiap-khí-lâi,,潘
+02E,078,apati,à-pat-ì,疊一堆,mi̍h-lóng-thiap kui-ē,,潘
+02E,079,mauit,māu-it,倒下,tó，tó-lo̍h-lâi,,潘
+02E,080,mu kiput,mu kī-put,包起,pau，pau-khí-lâì,,潘
+02E,081,piput i,pi-put i,包起,kā pau-pau--khí-lâ,,潘
+02E,082,kiput en,ki-put ən,全部包起,choân-po• pau-khí ā,,潘
+02E,083,ke kebe,kə kə-bə,摺，摺起來,chih， aú-khi-lāi,,潘
+02E,084,mulabax,mù-lā-bax,打開，翻開，開花,phah-khui，thián-khui，khui-hoe,,潘
+02E,085,kalunu,ka-lu-nu,捲起,khńg-khí，iōng lián-kńg,,潘
+02E,086,mohakan,mo-ha-kan,解開,hian，hian-khui，tháu-khui,,潘
+02E,087,me e delet,mə ə də-lət,捲起捲紙捲,kńg khí-lâi，kńg choá-kńg,,潘
+02E,088,xu lad,xu lad,拉開捲,hian-khui kńg  ê théh-chhu-lā,,潘
+02E,089,xa lap,xa lap,拉開捲,hian-khui kńg  ê théh-chhu-lā,,潘
+02E,090,ae de ret,aə də rət,正在捲,tī-teh kńg，kńg-khí,,潘
+02E,091,kaleheng,ka-le-heng,展開,kńg-liáu koh khui,,潘
+02E,092,musasak,mù-sa-sak,披開,tián-khui，thián-khui，phi-khui,,潘
+02E,093,sa sak i,sà sak i,平披,chhu hō• khui,,潘
+02E,094,mutiin,mù-ti-in,吊掛,tiáu-kòa，tiáu-mi̍h，tī kau teng,,潘
+02E,095,tili,ti-li,吊掛,tiáu-san，tiáu-nâ， tiáu teng，sai,,潘
+02E,096,hada eh,hà-da eh,拎掛晾衣服,nê，tiáu，koà，i-hok，phi-san ,,潘
+02E,097,mohasik,mo-ha-sik,收上去,siu-chip，siu-chiū-khí,,潘
+02E,098,pahasik,pa-ha-sik,收集,siu-siu lē,,潘
+02E,099,papahasikkun,pa-pa-ha-sik-kun,全部收齊,choân-pō• siu-chiâu-pī,,潘
+02E,100,sa salu,sa sà-lu,耙成堆,pê kui-tui,,潘
+02E,101,laulu un,laù-lū un,用耙具成堆曬穀之類,iōng pê-put á pê chò-tuì,,潘
+02E,102,papa sa kupi,pā-pa sà kupi,集會,chip-hōe，chê-chip,,潘
+02E,103,ma sa kup,mā sà kup,集會,chip-thé，chò-hóe,,潘
+02E,104,masimasima,,集會；會商,zi̍p-hōe，hōe-siong,,田
+02E,105,mupuza dadoa lia,mù-pu za da-doa liā,全部出席,lóng-tsóng chhut-sek,,潘
+02E,106,matiatianak duila lia,mā tia tià-nak dūi-la lia,離開走了,lî-khui，cháu-khí,,潘
+02E,107,maaxiu,,離開；逃走,lî-khui,,九
+02E,108,mu bu iak,mù bū iak,製造,chè-chō,,潘
+02E,109,mu a sak,mù ā sak,損壞,sún-hāi，bē tàng sú-iōng， phoà,,潘
+02E,110,pa kalabu,pa kà-lā-bu,挖動,óe，pìn，tín，tāng kàu pháin,,潘
+02E,111,kaleheng,kà lē heng,分解,thiah，thì-khui，hun-kái，kái-thé,,潘
+02E,112,mu a tik,mù ā tik,皺痕裂開裂痕破碎,pit-lih，pit-sûn，phòa-chhùi,,潘
+02E,113,mu tamak,mù tā-mak,斬,tsām，chhâ，tek，tit-bút lūi,,潘
+02E,114,ta tamak,ta tà-mak,正在斬,tsām，khà， tsām-tn̄g,,潘
+02E,115,mu hegets,mù hē-gets,裂開,lì-khui，lì-phoà，liah-phoà,,潘
+02E,116,muh takha,mùh ta-khá,破開剖開,phoà-khui，pun-phìn，pun-pêng,,潘
+02E,117,mu ulak,mu ù-lak,分成兩片分割,phi-khui，hun-koah,,潘
+02E,118,pa ka madingit,pà ka mà-dī-ngit,使彎曲，折彎,áu-oan，oan-khiau,,潘
+02E,119,paka,pà-ka,使用，利用使… 被…,iōng kî-khiau ê kang-hu,,潘
+02E,120,ma dingi,mà dī-ngi,彎曲,oan-khiau， oan-oan,,潘
+02E,121,pah ka tibokun,pàh ka ti-bo-kun,彎成駝背,áu khiau-ku,,潘
+02E,122,mu ikat,mu i-kat,拆成兩片,chò nn̄g-pêng,,潘
+02E,123,tih le en,tih lə ən,劈成小片，劈成竹篾批成小片,phoà-tsò sè-phìn，bī-á,,潘
+02E,124,ba zu,bā zu,洗,sé,,潘
+02E,125,mubazu,mu-bā-zu,擦洗,sé-san，bāi bā-zū,,潘
+02E,126,sa bazu,sa ba-zu,肥皂,sat-bûn,,潘
+02E,127,musinau,mù-sī-nau,洗家具清洗,sé-chheng-khì,,潘
+02E,128,manadi xipu,ma-na-di xi-pu,洗臉,sé-bīn,,潘
+02E,129,mana karau,ma-na ka-rau,洗腳,sé-kha,,潘
+02E,130,mana ima,ma-na i-ma,洗手,sé-chhiú,,潘
+02E,131,ma da oan,mà dā oan,洗身體,sé-sin-khu,,潘
+02E,132,pati sizau,pà-ti si-zau,洗浴,sé-e̍k,（比較兩者差異，慣用mà dā oan）放備註,潘
+02E,133,dai,hadai-i,曬(nê khui，於竹竿),nê khui,,九
+02E,134,lizaxan,,曝曬,pha̍k,,九
+02E,135,palizak,pà-li-zak,日曬,phák-zi̍t,,潘
+02E,136,da dadang,da dà-dang,烤火,hang-hóe,,潘
+02E,137,ma hahop,mà hā-hop,縮水,kìu-chúi,,潘
+02E,138,me xe et,mə xə ət,打結,phah-kat，kat-sio-liân,,潘
+02E,139,xe xe et,xə xə ət,連接，結,kat，chiap,,潘
+02E,140,ma xe et,ma xə ət,接連結結成一團,liân-chap kat-chò chit-oân,,潘
+02E,141,xeet en,xəʔət ən,綁在柱子上,pa̍k tī thiāu，khit-á,,潘
+02E,142,papupu,pà-pū-pu,糾結成團打結，櫛瘤,phah-kat-iû，phah-kat-kiû,,潘
+02E,143,dadaret,da-dà rət,縛緊，綁緊固定,pa̍k-tiâu，kò•-tēng,,潘
+02E,144,mohakan,mò-ha-kán,解開繩子,tháu-khui,,潘
+02E,145,mu ta puk,mù tā puk,蓋,khàm，ēng choá iah-sī pò• ê lūi khàm,,潘
+02E,146,ma si ke la,mà si kə la,遇上,bô-gî-gō ê san tú-tíoh,,潘
+02E,147,tapuk i,tà-puk i,蓋上,kāi khàm,,潘
+02E,148,muhamuk,mù-hā-muk,裝在籠子裡,chng tī láng-á lāī,,潘
+02E,149,mubusau,mù-bū-sau,身上蓋上布巾,ēng phōe-toan kah tī sin-thé,,潘
+02E,150,sabusau,sa-bù-sau,被單/毯子/床單,mî-phōe,（比較kapua）,潘
+02E,151,mu habuk,mu hā-buk,以布巾包小孩,en̄g moa kin moa gín-á,,潘
+02E,152,ta ka habuk,tà ka hà-buk,披布巾，披巾,moa pò-kin  moa kin-á,,潘
+02E,153,mu xulap,mù xū-lap,掀開,hìan-khui,,潘
+02E,154,sa sapan,sa sa-pan,結合，組合如夾板,kap chò-hóe，pí-pēng kiap-pang,,潘
+02E,155,muhalit ima,,牽手,khan-chhiú,,田
+02E,156,ma xalit,ma xa-lit,相牽，手牽手,chhiú khan-chhiú,,潘
+02E,157,mu dalit s,mu dā-lit s,糊，(糊)黏在一塊,kô•-á，kô• chò chit-tè,,潘
+02E,158,sa dalit s,sa dà-lit s,漿糊,kô•-á chiun,,潘
+02E,159,mu sapit,mù sā-pit,黏挾,liâm-kiap，liâm-che,,潘
+02E,160,mu lukan,mù lū-kan,脫糊、沒黏住,thoat khui，liâm-bô-tiâu,,潘
+02E,161,mu du xa,mù dū xâ,擦掉,lù-tiāu，chhit-tiāu,,潘
+02E,162,du xa i,du xâ i,擦掉,kāi chhit-tiāu，lù-tiāu,,潘
+02E,163,ma tianak,mā tīa-nak,拆開,hun-lī，thiah-hun-lī ,,潘
+02E,164,papa tianak,pa-pa tia-nak,分離,hun-lī,,潘
+02E,165,mohopak,mò-hō-pak,拔拉,khau，gíu，pak，chhut-lâi,,潘
+02E,166,hopak,,拔出,khau-khí-lâi　giú-chhut-lâi,見(   )條hopak拔出,田
+02E,167,hopak,,拔草,khau--khí-lâi　giú--chhut-lâi,見(   )條hopak拔草,田
+02E,168,hopaken lia,,被拔了,hō•-lâng khau-khí-lâi,,田
+02E,169,hopak i,hò-pak i,用力拔,chhut la̍t gíu,,潘
+02E,170,mo ho put,mò hò put,輕拉,m̄ -bián chhut-lát，khau-khí-lâi,,潘
+02E,171,mu xe en,mù xə ən,拉拔,khau，chai-chèng ê mi̍h,,潘
+02E,172,mu hazap,mu hà-zap,刺進,chha̍k，chhì，chiam-lāi,,潘
+02E,173,ha zap i,hà zap i,刺到了，刺進了,chha̍k lo̍h-khì,,潘
+02E,174,mahazap,ma-hà-zap,刺到了,chha̍k-tio̍h,,潘
+02E,175,tuzuk,tù-zuk,點戳，點輕輕戳,tiám-tú，khin-khin-tú,,潘
+02E,176,tozok,tò-zok,撞，戳輕點 穿刺,tōng，thùh,,潘
+02E,177,tuzuk i,tù-zuk i,以指頭輕戳點,iōng-chéng-thâu-á，khin-khin，thùh,,潘
+02E,178,mupuzut,mu-pù-zut,刺穿,chhah thàu-kòe,,潘
+02E,179,puzut i,pù-zut i,刺而穿過,chhah，chhiah-thàu-kòe,,潘
+02E,180,mududu,mù-du-du,敲打托果子，打落果子,khà，khà kóe-chí,,潘
+02E,181,mu ubut,mu ù-but,剉，砍，斬,chhò，chhò-tn̄g，khám，chám,,潘
+02E,182,kama lang a tadau ubut,kà-ma lang ā tà-dau ù-but,用鋒利的刀砍,īong lāi ê to chhò,,潘
+02E,183,e ehbet,ə əh-bət,正在砍,tng-teh chhò,,潘
+02E,184,pekauit kaxui,pə kâu-it kàxui,砍樹倒下,chhò-chhiū hō• ì tó,,潘
+02E,185,mauit,māu-it,倒下,tó,,潘
+02E,186,ta tatak,ta ta-tak,用刀剁,īong to tók,,潘
+02E,187,ta max,ta max,剁，砍,tok，chhò，chò-chat,,潘
+02E,188,mu taxa,mu tā-xa,剖,phoà，phòa-bī-lō（同殺害）,,潘
+02E,189,ke ep,kə əp,用剪刀剪,chián，ēng ka-to,,潘
+02E,190,ke kep,kə kəp,剪,ka-chián,,潘
+02E,191,xizip,xì-zip,切，切菜,chhiat，chhiat-chhài,,潘
+02E,192,taeketep,ta ə kə-təp,切碎，切片,chhiat-chhùi-chhùi，sè-phìn,,潘
+02E,193,ketek,kətək,切碎，切片,chhiat-chhùi-chhùi，sè-phìn,,潘
+02E,194,mekeep,məkəəp,割，殺雞，割喉,koah，thâi-ke，koah-âu,,潘
+02E,195,mekexet,məkəxət,割脖子,koah，tī ām-kún,,潘
+02E,196,mu la kut,mù lā kut,扯斷，拉斷,bán，giú，giú-tn̄g,,潘
+02E,197,lakut en lia,là-kut ən lia,拉作兩半,gíu chò nn̄g-koèh,,潘
+02E,198,mu kaxat,mù kā-xat,削，削成薄片,siah，siah po̍h-phìn,,潘
+02E,199,xeesuxut,xəəsù-xut,削除木節竹目的贅疣,siah ba̍k-thâu,,潘
+02E,200,bu bulak,bù bu-lak,削修竹木的節疣,ba̍k-thâu，phû-ba̍k,,潘
+02E,201,bu boak,bù boak,剖開,phoà-khui， phoà-bī,,潘
+02E,202,mu imat,mù ī-mat,混和,chham，lām,,潘
+02E,203,i imat,i i-mat,正混和為一,lām-lām chò-hóe,,潘
+02E,204,imat i,i-mat i,混和，攪,chhíau-lām,,潘
+02E,205,muzupai,mù-zù-pai,磨,lù，boâ,,潘
+02E,206,zupai i,zù-pai i,磨成粉,chit-ê mi̍h，kā-bôa，lù-hún,,潘
+02E,207,mudusu du s,mu-dù-sū du s,濾磨碎,chhè，thih-phôe tēng-khang,,潘
+02E,208,kalabu,kà-lā-bu,挖洞,liú-khang，óe，zîm,,潘
+02E,209,ti ka labu,ti ka là-bu,踏入洞裡,kha，lop-zi̍p khang-té，hām-zíp,,潘
+02E,210,mu da xan,mù dā xan,挖掘,iōng tī-thâu kùt chiân-khang,,潘
+02E,211,mu ki zu,mù ki zu,剷洞,īong thih-chhiah，chhiah (tô•) khang,,潘
+02E,212,mu buabun,mu bū-ā-bun,挖鬆,ku̍t-sang，chhân-thô，kòng-chhùi,,潘
+02E,213,mu dukeng,mù dū-kəng,補洞,thūn-pó• tī óe ê khang,,潘
+02E,214,mu kala pu,mu ka-là pu,抬重擔,giâ-tāng tàn,,潘
+02E,215,pa kize,pà kī-ze,放下擔,pàng-lo̍h tàn,,潘
+02E,216,mu kazip,mù kā-zip,插進，卡住,chhah-zi̍p，kā-tiâu,,潘
+02E,217,kazip i,kā-zip i,夾住,kā-tiâu，ngeh，tiâu,,潘
+02E,218,za zangau,za zà-ngau,溜到，以繩索結抓到，設陷阱捕獲,liù-tio̍h，tng-tio̍h,,潘
+02E,219,sadap i,sà-dap i,黏到、夾到,liâm-tióh，giap-tióh,,潘
+02E,220,mupilat,mu-pi-lat,拂掃,pōan-pōan，póe-póe,（比較P27 a li poh）放備註,潘
+02E,221,pilat si,pì-lat sì,拂掃……,kā-pōan，póe,,潘
+02E,222,mo xo o xo,mo xo ò xo,拖走，拖行,thoa-teh kiân,,潘
+02E,223,tu tunux,tu tù-nux,浸水，浸泡,chìm -chúí，chìm-bí tī chúi nī， iàu-bòe  chú ê bí，tāi-seng chìm phàu  ,,潘
+02E,224,musoax,musoax,滲出,tò-chhut，póe-chhut,,潘
+02E,225,matu lulu,mà-tù lu-lú,遷移,chhian-soá，soá-ūi,,潘
+02E,226,patu lulu i,pà-tū lu-lù i,搬遷,poan-soá,,潘
+02E,227,mu diput,mù di-put,排整齊,pâi chéng-chê,,潘
+02E,228,tuloaluk,tùloalúk,不整齊,bô chéng-chê,,潘
+02E,229,diput i,di-put i,排好,pâi-hó-sè,,潘
+02E,230,silibat,sì-lī-bat,排列,pâi-liát，pâi chít-soàn,,潘
+02E,231,silibat i,sì-lī-bat i,整隊,pâi-pâi，mài sì-soàn,,潘
+02E,232,musibat,mù-sī-bat,排列,pâi-liát,,潘
+02E,233,sibat i,sì-bat i,排隊,pâi-tūi,,潘
+02E,234,sisibat,si-sì-bat,整隊,chéng-tūi,,潘
+02E,235,muhezoh,mù-he-zoh,以手扭抓,lút，lút bēh á (hoan-béh，sék-á，tiū-chhek),,潘
+02E,236,he he zox,he he zox,轉的,tsūn，ngiú，loáh，lút，hō• i lak-liáp,,潘
+02E,237,mu da ke dax,mū dā kə dax,揉粒蹂躪,zôe-lia̍p，ēng kha ta̍h，zôe,,潘
+02E,238,da ke dak,da kə dak,用腳踏(脫粒),lo̍p hō• i thoat-lia̍p,,潘
+02E,239,kao a om,kao â om,插竹竿,chhe，tú，san-kha-chhe，khòa tek-ko,,潘
+02E,240,pialai,piā-lai,開始開頭的,khí-thâu ê,,潘
+02E,241,mu-uput,mù ū-put,結束,oân-sêng，kiat-sok,,潘
+02E,242,xesek-,xə sək-,停,thêng,,田
+02E,243,xesek'i,xə sək-ī,可以停止了，止息,ē-sái thêng-chí--a，chí-sek,,九
+02E,244,musukut,,停止,thêng-chí,,田
+02E,245,mu seket,mù sə-kət,休息，停止,hioh，hioh-khùn，sió-thêng,,潘
+02E,246,tasukutna,ta sū-kut nā,休息,hioh-khùn,,田
+02E,247,xe sek,xə sək,打噴嚏,phah ka-chhiùn,,潘
+02E,248,mai kazai,mài kà-zai,移動,soá-ūi  (makazai xi-dan)m̄ thang kan-ta chiah，sòa kàu lóh-khì.(a-na doa di-ni),,潘
+02E,249,mai xit,mai xit,滑動，滑下,sóa kàu pìn-á khì，chhu--lóh-khì,,潘
+02E,250,seladen,,跌倒,poā-tó,,九
+02E,251,pasuitat(pisuitat),pà-sui-tat(pi-sui-tat),蹣跚而行，跌倒,kêntio̍h chio̍h-thâu poa̍h-tó,,潘
+02E,252,pa ko ala,pà ko à-la,絆倒,kên， ken，tîn-bāng，hoâi-chhâ,,潘
+02E,253,pa da ret,pa da rət,腳被蔓藤草絆倒,phoáh tio̍h tîn-á,,潘
+02E,254,maurit,māu-rit,(樹或他物)倒下,chhiū，á-sī sím-mi̍h tó-lóh khì,,潘
+02E,255,mu bulit,mū bù-lit,旋轉進行,páng liàn-tńg,,潘
+02E,256,ma pi lutut,ma pì lu-tut,跳過溝,thiàu-kòe kau,,潘
+02E,257,tixa lapu,ti-xa la-pu,跳過障礙,thiàu-kòe kau，khiah，chiòng gāi,,潘
+02E,258,pi lutut,pi lū-tut,跳躍,thiàu，chháu-meh thiàu,,潘
+02E,259,te ha let ,tè hā lət,如孩童般跳躍,sè-hàn ê gín-á teh thiàu-lâi，thiàu-khì,,潘
+02E,260,pi de ke dek,pi də kə dək,跳進水中,thiàu-zi̍p  chúi， tîm tī chúi,,潘
+02E,261,tilaka s,ti-la-ka s,跨步，踩過,khoà-pō•，táh-kòe-chúi,,潘
+02E,262,pidung,,掉下去,la̍k--lo̍h-kí,,潘
+02E,263,ta lubik,tà lū-bik,使墜落，掉落,ka-la̍uh，lak-lo̍h mi̍h,,潘
+02E,264,ta pa lubik i,tà pa lù-bik i,任其墜落,chhut-chāi i tūi-lo̍h，siak-lo̍h,,潘
+02E,265,mu pi li,mu pi li,挑選,kéng，soán，kéng-chia̍h,,潘
+02E,266,pipili,pi-pi-li,正在選,kéng n̄ng ê,,潘
+02E,267,ulaula,u-lau-la,我也要加入,goá iā beh，ka-zi̍p，pī-pān,,潘
+02E,268,ma ki nua nek,mà ki nūa nək,趕快，緊急,khah-kín，ho• kiò，koán-kín，kín-kip,,潘
+02E,269,hoailu,hōai-lu,趕緊,koán-kín,,潘
+02E,270,hoailu ta kani,hōai-lu ta ka-ni,立刻，趕快吃,khah-kín chia̍h,,潘
+02E,271,pa pa lizi,pa pa li-zi,改變，變換,piàn-oān， oān，iā-sī kaì-pià,,潘
+02E,272,matuazang a heni s,mà tu à-zang a hê-ni s,不同想法，不同心故意?,n̄ng-iūn sim，kò-iūn sim,,潘
+02E,273,tatape ima,ta tà-pe ì-ma,拍手,kó•-chiáng，phah-phók-á,,潘
+02E,274,pai oai,pâi oai,避閃避,siám-khui，siám-pìn， siám-cháu,,潘
+02E,275,ma tu pulak,mà tu pu-lak,使爆炸，破裂,phàu-po̍k，pók-chà，pàng-phàu,,潘
+02E,276,taikula lamut,tai-ku-la là-mut,偽裝(氣派),kek sián phài-thâu,,潘
+02E,277,taiku axai,tāi-ku à-xai,偽裝(氣派),kek sián phài-thâu,,潘
+02E,278,tai ku la la mut mangit,taiku la la mut mangit,裝神弄鬼，假哭，假做……,ké-kúi ké-koài，kek sim-mih,,潘
+02E,279,ma xa ke kela,ma xa kə kə-la,思考，希望,teh-siūn，ǹg-bāng，hi-bāng,,潘
+02E,280,mabaza,mà-ba za,知道，了解,chai，liáu-kái，ē-hiáu，hiáu-bêng zīn-chai,,潘
+02E,281,mubaza,mù bā za,知道，了解,chai，liáu-kái，ē-hiáu，hiáu-bêng zīn-chai,,潘
+02E,282,mabaza imisiu a sau siu,mà-ba-za i-mi-siu a sau，siú,你認識他,lí bat ī,,潘
+02E,283,mabaza taating xoaxo a ma kaoas,mà-ba-za taating xoaxo a ma kaoas,我會一點日語,ē-hiáu tām-po̍h zít-pun ōe,,潘
+02E,284,taating,taating,一點點,chi̍t-sut-á,,潘
+02E,285,isiu ka mubaza,i-siu ka mù-ba-za,你能解說嗎,lí kám ē-hiáu kái sòe，kóng,,潘
+02E,286,ma baza mubizu,ma ba-za mù-bi-zu,識字,bat-zī,,潘
+02E,287,mau babaza,mau bà-bā-za,學習,o̍h，teh-o̍h，ha̍k-sip,,潘
+02E,288,mu babaza,mù ba-bà-za,記憶,kì-ek，kì-tit，hôe-ek,,潘
+02E,289,pitelet,pi tə lət,記憶,kì-ek,見(   )條pitelet紀錄,田
+02E,290,mina baza baza,mì-na bà-za bà-za,巧妙的，好技術,ēng-kî-khiáu ê hó kang-hu,,潘
+02E,291,to polok,tò po-lok,笨拙的,hām-bān，lám-noā，tít-siūn,,潘
+02E,292,ma tu azang ahenis,mà tu à-zang ahê-nis,異樣的心懷,bô kâng-iūn ê sim ,,潘
+02E,293,pi te let,pì tə lət,記起,bē-kì-ti̍t，bô sim-sū,,潘
+02E,294,ma haihian,ma hâi-hian,忘記，沒心事,bē-kì-ti̍t，bô sim-sū,,潘
+02E,295,pa haihian,pa hâi-hian,忘記，沒心事,bē-kì-ti̍t，bô sim-su,,潘
+02E,296,ma xa ukat,mà xa ù-kat,想起,hôe-ek，siūn-khí，ū iōng-sim,,潘
+02E,297,kasibat,kà-si-bat,教導,kà，kàu-tō，kà-sī,,潘
+02E,298,mangu sen,mà-ngu sən,害怕,kian，chhoah,,潘
+02E,299,mi dahin,mì dā-hin,吃驚，嚇一跳,tio̍h chit-kian，chhoah-chit-tiô,,潘
+02E,300,ma si dahin,mā sī dà-hin,使驚慌,kian kàu sim loān-loān,,潘
+02E,301,pai dahin sau,pai da-hin sau,使人驚慌,ē hō• lâng kian,,潘
+02E,302,masi dadahin,ma-si da-dà-hin,正驚慌中，驚慌失措,tī kian-hiân tiong bô só• an-ún,,潘
+02E,303,ha pit,ha pit,受驚，嚇一跳,hut-ziân ê kian-chhoah,,潘
+02E,304,ke len,kə lənʔ,受驚,tio̍h-kian khah bô kóng,,潘
+02E,305,ha apet,,愛,ài,見(   )條ha apet,田
+02E,306,ha apet,,很喜歡,chin kah-ì,見(   )條ha apet,田
+02E,307,ha pet,hā pət,喜愛,ì-aì，beh tit-tióh ê mi̍h,,潘
+02E,308,iaku ka hapet balan,iā-ku ka hā-pət balan,喜愛貓,kàh-ì niau-á,,潘
+02E,309,maka hapet,ma-ka hà-pət,戀愛,san-ì-ài，loân-aì，thiàn-sioh,,潘
+02E,310,nang,nang,不喜愛,m̄-aì，bô ì-hiòng，boài,,潘
+02E,311,maliax,,討厭,thó-ià,,田
+02E,312,maliak,mà-liak,討厭,thó-ià， m̄ tiàng-ì,葛哈巫腔口,潘
+02E,313,au tian na misiu,au tiân na mì-siu,很欣羨那個,chin siàu-siun hit ê,,潘
+02E,314,maxu bazu,ma-xu bā-zu,嫉妒,oàn-tō•,,潘
+02E,315,ma xa lazang,ma xa là-zang,怪樣子,bô hó hō lâng hoan-hí ê chit-bīn,,潘
+02E,316,mu tu kah,mù tu káh,忘卻憂愁，放心,pàng-sim，iu-chhiû lóng bô-khì--á,,潘
+02E,317,ka li teket a heni s,ka li tə-kət a hè-ni s,悲傷,siong-sim，pi-siong，pi-aī,,潘
+02E,318,ka ha saisiman,kà ha sai-sì-man,可憐的,khó-lîn ê，tit lâng koan-sim ê,方音差,潘
+02E,319,maxaruaru,maxaruaru,傷心的,siong-sim,,潘
+02E,320,kai heni s,kai hè-ni s,懷疑,hoâi-gî，khǹg tī sim ê gî-ngái,,潘
+02E,321,ka xi e de,ka xi ə də,相信,sìn，siong- sìn，bô-ké e sim,,潘
+02E,322,tangitik,,發怒,hoa̍t sèng-tē,,田
+02E,323,tangiti,tà-ngi-ti,發怒生氣，不高興,hoat sèng-tē，siū-khì，bô hoan-hí,,潘
+02E,324,ti na ngi,ti na ngi,生氣 急躁的樣子,sò-sèng ê，bô-lâng ē khàn-kài ê,,潘
+02E,325,tingiti,ti ngi-ti,生氣 急躁的樣子,sò-sèng ê，bô-lâng ē khàn-kài ê,,潘
+02E,326,tangiti,,生氣 急躁的樣子,sò-sèng ê，bô-lâng ē khàn-kài ê,,潘
+02E,327,maisat,māi-sat,對人生氣罵 責備,mē，chek-pī,,潘
+02E,328,maxai saisat,mà-xai sai-sat,無意中的責備,bô ì-tiong ê chek-pī,,潘
+02E,329,ma ngóngo,mà ngó-ngo,發牢騷，邊走邊罵,ná-kiân ná-mē，hoat-lô-so,,潘
+02E,330,masikat,mà-si-kat,慚愧，羞恥,kiàn-siàn，bô thé-biān，pháin-sè,,潘
+02E,331,ka li tekut,kā li tə-kut,煩惱,hoân-ló，bô-sim-chiân,,潘
+02E,332,ma zumut,mà zū-mut,憂鬱,iu-chhiû，ut-tsút，sim-tiong khang,,潘
+02E,333,mutukah he ni s,mù-tu-kah he ni s,開朗,sim khai-lóng，sià-lo̍h pi-siong,,潘
+02E,334,ma pu lut,ma pu lut,笨拙的,gōng，ham-bān，pūn-choa̍t,,潘
+02E,335,tumala tatudu,tù-ma-la ta-tu-du,聰明,ū-thian chí-sī ê，chhong-bêng ê,,潘
+02E,336,a ezau,â ə-záu,感觸,chhiok-kám ê，sim-té kám-siā,,潘
+02E,337,tulamik,,孤獨,ko•-toann,,田
+02E,338,tulamik a a ezau,tù-lā-mik a â ə-záu,孤獨,ko-toan，ko-to̍k,,潘
+02E,339,pa ka ta ha iak,pa ka ta hā iak,感謝,hō•-lí sin-lô，kám-sia ê ì-sū,,潘
+02E,340,taxubile,ta xu bì-le,後悔,hō•-hóe，tiōng-sin ńg-bāng,,潘
+02E,341,amahakela,a ma-ha-kə-la,後悔,hō•-hóe，tiōng-sin ńg-bāng,,潘
+02E,342,ma bunux a bai,mà bu-nux a bà-i,自誇,pòng-hong，tián ka-tī gâu,,潘
+02E,343,mu hium a bai,mù hium a bà-i,自誇,pûn ke-kui，tsū-khoa ê,,潘
+02E,344,pu tian,pù tian,瘋狂,cheng-sîn-pēn，khí-siáu,,潘
+02E,345,oa i lu xan,oâ i lu xan,質樸天真,thian-chin ê，pók-zîn，chhià-kang ê,,潘
+02E,346,pa pah,pa pah,故意,teh-beh,,潘
+02E,347,pa pah suhai,pa pah su-hâi,會被你傷害,hō•lí hāi,,潘
+02E,348,ka di xan,ka di xân,活該，不聽叮嚀,bô thian hoan-hù,,潘
+02E,349,tuing,tù-ing,活該,tâng-iū，kham-kai,,潘
+02E,350,sinai,si-nai,當然的事理所當然,tong-ziân ê sū，eng-kai tit ê,,潘
+02E,351,kizengut,kizəngut,依靠,khò，oá-khò，khò-lâng，khò-ka-tī,,潘
+02E,352,papahangat,papahangat,剷平,phah-pên，lu-pên，pên-tē,,潘
+02E,353,ha apet,,要,beh,見(   )條ha apet,田
+02E,354,maxiaeset,,敬重,chun-kìng,,田
+02E,355,muhium ba'i,,吹牛,phòng-hong,,田
+02E,356,mute'en,,投擲,tàn,,田
+02E,357,nahaza,,有,ū,,田
+02E,358,kukuang,,完全沒有,oân-choân bô,,九
+02E,359,nang,,不要,bô-ài,,田
+02E,360,xabu-,,飄浮,phû-phû-ê,,田
+02E,361,suzuk,,躲藏,bih，chhàng,,九
+02E,362,suzuk'way,,正躲在,tng bih tī,,九
+02E,363,paiway,,閃躲,siám,,九
+02E,364,itun,,(動作)醒,chhén--ki-lâi,,九
+02E,365,sapoh,pa sa poh,打掃,piàn-sàu,,九
+02E,366,maxakela,,想念/思念,siūn，su-liām,,九
+02E,367,maxakekela,,想念/思念,siūn，su-liām,,九
+02E,368,malup,,狩獵,phah-la̍h,,九
+02E,369,masu-kaum,masi kaum,進入,chìn-zi̍p,,九
+02E,370,malep,,關閉,kuain,,九
+02E,371,suax,,遺棄,pàng-sat,,九
+02E,372,maazazuah,,競賽；賽跑,pí-sài ，cháu-pio,,九
+02E,373,muahut,,流,lâu,,九
+02E,374,pakamatu,,修護；修築,siu-hō•，siu-tio̍k,,九
+02E,375,sibat,ka sibat,排列；教導、教誨,pâi-lia̍t，kàu-to，kà-sī,,九
+02E,376,mutukun,,爬山,peh-soan,,九
+02E,377,matipalanah,matuku pa-ana,搭船；乘坐船,chē-chûn,,九
+02E,378,matiwazu,,帶著狗,chhoā káu,,九
+02E,379,masinaunau,,到處跑；走動,sì-kè cháu，kiân-tang,,九
+02E,380,mudipat,,添加；疊,ka-tin，thah,,九
+02E,381,dipat,,增添,ka-tin,,九
+02E,382,mupalizi,,易物、交換,kau-oā-mi̍h，kau-oā,,九
+02E,383,madu,,存放,khǹg,,九
+02E,384,bulit,,轉動；滾動,liàn-tín-tāng,,九
+02E,385,kazamas,,愛惜；抓住(掌握住),ài-sioh，liâh-tio̍h,,九
+02E,386,pakabaza'en,,被告知,hô• lâng thong-ti,,九
+02E,387,tasuisu,,算、數,sǹg,,九
+02E,388,kidits ,,挾,ngeh,,九
+02E,389,kiusen,,被挾,hō• giap-tio̍h,,田
+02E,390,kaxadumu,,作弄人；欺負,chhóng-tī，khi-hū,,九
+02E,391,pakaukat,,惹出；弄出,ziá-chhut ，pìn-chhut,,九
+02E,392,padadangue,pa dā-dangi,烤到,hang tio̍h,,九
+02E,393,hakelaen,hàkelāen,想到,siun-tio̍h,,九
+02E,394,masikela,,遇到,tú-tio̍h,,九
+02E,395,masekela,ma sə kə la,遇到,tú-tio̍h,見(   )條masekela得到,田
+02E,396,makuxu,ma ku xuh,炎熱、燒熱,iām-zoa̍t，sio-zoa̍t,,九
+02E,397,waawalak,,分散；分配(waawalak palizax a xalam),hun-soàn，hun-phòe,,九
+02E,398,ma-ba'i,,吹風,chhoe-hong,,九
+02E,399,mabaya,,使輕鬆,hō• khin-sang,,九
+02E,400,muikat,,斷掉,tn̄g-tiāu,,九
+02E,401,mamek,,不知,m̄-chai,見(   )條mamek不會,田
+02E,402,mamek,,不會,bē-siáu,見(   )條mamek不知,田
+02E,403,sina,,試試看,chhì-khoàn-māi,,田
+02E,404,mu buiak,,製造,chè-chō,,田
+02E,405,mu buiak,,作,chò,,田
+02E,406,sen,,稱作，據稱,kiò-chò,,田
+02E,407,pakasinaw,,清潔,chhing-kiat,,田
+02E,408,xesek lia,xə sək lia,停,thêng,,田
+02E,409,saisiman,,愛心,ài-sim,見(   )條saisiman愛憐、疼惜,田
+02E,410,saisiman,,愛憐、疼惜,ai-liân，thiàn-sioh,見(   )條saisiman愛心,田
+02E,411,suaxsuax,suax-suax,浪費,lōng-hùi,,田
+02E,412,pisulit,,滑倒,ku̍t-tó,,田
+02E,413,laalualua,,運動,ūn-tiōng,,田
+02E,414,madulu,,差用人,chhhe-iōng lâng,,田
+02E,415,pasusu,,寄送（信；貨物）,kià (phe;hòe bu̍t),,田
+02E,416,habai,,放下心,pàng-lo̍h sim,,田
+02E,417,autian,aū tiân,期望,kià-bong,見(   )條autian很中意，如果能得到的話多好,田
+02E,418,sapan,,連接,liân-ziap,見(   )條sapan接,田
+02E,419,muput,,完成,oân-sêng,,田
+02E,420,pitelet,pi tə lət,紀錄,kì-lo̍k,見(   )條pitelet記憶,田
+02E,421,kazamas,,把握（時機）,pá-ak(sî-ki),,田
+02E,422,muput la,,( 講完話 ) 以上… …,í-siōng,,田
+02E,423,mahadakan,mà há dà kan,提出,te̍h-chhut,見(   )條mahadakan拿出來,田
+02E,424,mahadakan,mà há dà kan,拿出來,te̍h--chhut-lâi,見(   )條mahadakan提出,田
+02E,425,masekela,ma sə kə la,得到,tit-tio̍h,見(   )條masekela遇到,田
+02E,426,makinuanek,,趕緊；有要事；緊要關頭,koán-kín，ū iàu-sū，kín-iàu kuan-thâu,,田
+02E,427,malamat,,參加,chham-ka,見(   )條malamat進去；加入,田
+02E,428,malamat,,進去；加入,zi̍p-khí，ka-zi̍p,見(   )條malamat參加,田
+02E,429,masakup,,使聚集,ka chū-zi̍p,見(   )條masakup撮合、見(   )條masakup兩條溪水合流,田
+02E,430,masakup,,撮合,iōng-chò-hóe,見(   )條masakup使聚集、見(   )條masakup兩條溪水合流,田
+02E,431,masakup,,兩條溪水合流,nn̄g tiâu khe ha̍p-lâu,見(   )條masakup使聚集、見(   )條masakup撮合，,田
+02E,432,autian,aū tiân,很中意，如果能得到的話多好,chin kàh-ì，nā ē-sái tit-tio̍h ê ōe m̄-chhai goā hó,見(   )條autian期望,田
+02E,433,sapan,,接,chia̍p,見(   )條sapan連接,田
+02E,434,matukun,,攀坡,peh-kiā,見(   )條matukun提昇、(   )條matukun昇華,田
+02E,435,subin,su-bin,拜託,bài-thok,,田
+02E,436,mazubuzu,ma zu bu zu,互相參一腳,hō•-siōng chhap zi̍t-kha,見(       )條mazubuzu擦肩擠在人堆,九
+02E,437,mazubuzu,ma zu bu zu,擦肩擠在人堆,e-e-tīn-tīn lâng kheh lâng,見(       )條mazubuzu互相參一腳,九
+02E,438,azang,,有了變化、有些許感嘆之情,ū liáu piàn-hoà，ū chi̍t-koá-á kám-thàn chi chêng,,九
+02E,439,puzah,,出現,chhut-hiān,,九
+04A,001,mulasi,mùlāsi,稻,tiū，tiū-sūi，chuí-tiū,,潘
+04A,002,mulasi,,稻穀,tiū-kok,,九
+04A,003,pinaxuan,pìnāxuan,米,bí，kok-lia̍p géng-chhut ê,làsu（巴宰語）,潘
+04A,004,durun,dùrun,粗糠,chho•-khng,,潘
+04A,005,pazai,pàzai,糯米,chut-bí,,潘
+04A,006,maritay,maritay,空心稻穀，空包彈,khang-phàn bô zi̍p bí,,潘
+04A,007,maxedang,màx̄ə̄dang,結實（形容米粒飽實）,pá-bí，ū kiat-sít,,潘
+04A,008,zumut,zùmut,糙米,thoat-khak ê chhò-bí,,潘
+04A,009,ketex,kətəx,碎米,chhuì-bí，bí-lia̍p，phòa-chhúi,,潘
+04A,010,sumay,sumay,米飯,tsú-sèk ê pn̄g,,潘
+04A,011,mibulak,mibūlak,（沸騰溢出）煮滾,teh kún，ū chúi-ám lâu-chhut,,潘
+04A,012,manax,manəx,煮過熟,oe-té ê pn̄g-phí,,潘
+04A,013,sumin,sumin,（飯粒）飯,liâm pn̄g liàp,,潘
+04A,014,ringxau,ringxau,粥,moê，noā-pn̄g chúi-hun ke-thin,,潘
+04A,015,lamtax,lamtax,糊粥,beh hō• e á sio-zî chiàh ê ám-môe,,潘
+04A,016,maixau,mâixau,軟飯,ńng-ńng ê pn̄g,,潘
+04A,017,saken,sā-kən,配飯的菜，小菜,phòe-pn̄g ê mi̍h，sió-chhài,,潘
+04A,018,me talek,mə talək,煮,tsú，hē tī tián，oe，chú hō•si̍k,,潘
+04A,019,matulu,matùlu,具黏黏軟軟黏性的食物，如：糯米糕,liâm-sèng ê，zîn-kang tsò ê tsut-bí-kóe,,潘
+04A,020,masi,masi,麻糬,ko-pián，kóe ê lūi,,潘
+04A,021,tupalits,tupalits,粿,kóe，pián，mī-hún tsò-chhut ê mi̍h，môa-chî,（也泛指糕餅.麵粉製品等..）,潘
+04A,022,uhmu,u̍h'mu,阿拉稞,a-la-kóe,,田
+04A,023,mayaxu,mayaxu,椿,cheng-kòe bí，tsò chhut-lāi ê tàk-hāng,,潘
+04A,024,kinarumurumux,kinarumurumux,湯圓,în á，chùt-bí，so în chú，phû,,潘
+04A,025,piaxun,piaxun,小米，稷,tāi-á，sèk-á，sèh-á，ngó-kok-lūi,,潘
+04A,026,abazing,abazing,高粱,ko-liâng，sèh-á koân-kha chok-bút,,潘
+04A,027,dalabuk,dalabuk,（穀倉）穀類製具，儲存具,siu-khǹg ê ngó-kok,,潘
+04A,028,haidang,haidang,豆類,tāu-lūi chhài-tāu，tsu-tāu,,潘
+04A,029,baunai,b ā u-nai,落花生,thô•-tāu,tautau（巴宰語）,潘
+04A,030,dadats,dadats,地瓜,han-chî，siòk chî ê lūi,,潘
+04A,031,dukun,dukun,芋頭,ō•-á，ō•-thâu,,潘
+04A,032,talu,talu,芋梗,ō• hoâi-koáin,,潘
+04A,033,xaxawats,xaxawats,(地瓜藤軟葉，地瓜葉)地瓜軟葉,han-chî tîn，hiòh，ńng-ê sim,,潘
+04A,034,biarax,biarax,包粿的葉子，竹葉,pau-kóe ê hio̍h，tek-hio̍h,,潘
+04A,035,xalam,xalam,青菜,chhen-chhài,,潘
+04A,036,baun,baun,南瓜,kim-koe，á-si kóng lâm-koe,,潘
+04A,037,delem,də ləm,玉米,hoan-be̍h,,潘
+04A,038,paukex,paukəx,麥,be̍h，tiū-be̍h,,潘
+04A,039,baxat,baxat,黃瓜,n̂g-koe，chhi-koe,,潘
+04A,040,darki,darki,茄子,kiô，chhài ê lūi,,潘
+04A,041,oaoan,oaoan,野番茄,iá-seng ê kham-a-to,,潘
+04A,042,saipu,saipu,菜頭，蘿蔔,chhài-thâu,,潘
+04A,043,tami,tami,菜瓜，絲瓜,chhài-koe,,潘
+04A,044,taba,taba,瓠瓜,pû-a,pusiak(巴宰語),潘
+04A,045,dia lai,dia lai,麻,moâ，khó-moâ,,潘
+04A,046,tubehe,tubehe,芥葉,koah-chhài,,潘
+04A,047,masezem xalam,masəzəm xalam,韭菜,kú-chhài,,潘
+04A,048,baibai,bāibâi,蔥,chhang-á,,潘
+04A,049,iaturat,iaturat,蒜,soàn-á,,潘
+04A,050,saxii,saxi-i,椒,chio，hiam ê，tin ê chhen-chio,,潘
+04A,051,dukuduk,dukuduk,薑,kiun,,潘
+04A,052,lukaluk,lukaluk,落蕗蕎(薤.又名路蕎.五辛之一),lō•-giō,,潘
+04A,053,madu,madu,（水果的統稱）果子,kóe-chí,,潘
+04A,054,buxu,buxu,水果，果實，果粒（已從樹上摘下的水果）,chúi-kó，chèng ê,,潘
+04A,055,siut,siut,桔子,kit-á,,潘
+04A,056,banai,banai,柚子,iū-á,,潘
+04A,057,bulebun,buləbun,香蕉,kin-chio,,潘
+04A,058,beleben,,香蕉,kin-chio,,田
+04A,059,babulangtang,bàbūlangtang,山芎蕉（芭蕉，心莖可吃）可用來織布,soan kin-chio,,潘
+04A,060,bahsiau,bàh-siau,月桃(芎蕉科),nge-thô,,潘
+04A,061,akhehan belebun,akhehan bələbun,幼苗，香蕉苗,kin-chio ín,a khehan=小孩，bələbun=香蕉,潘
+04A,062,budabut,Bùdabut,鳳梨,ông-lâi,,潘
+04A,063,mulakat budakut,mulakat，budakut,鳳梨,ông-lâi,,潘
+04A,064,kakilis,kakilis,樹莓,chhiū-m̂,,潘
+04A,065,baxala,,刺莓,chhì-pho,,田
+04A,066,kadoh,kadoh,李子,lí-á,,潘
+04A,067,a im,à im,桃子,thô-á,,潘
+04A,068,sangats,sangats,梅子,bôe，mûi，sng-mûi,,潘
+04A,069,xau xi,xau xi,榕樹,chhêng-á chhiū,,潘
+04A,070,la poat,la poat,番石榴,pa̍t-lá,,潘
+04A,071,bu xuan,bu xuan,種苗，秧,chéng-biâu chéng-chí,,潘
+04A,072,bun ,bun,芒果,soāin-á  kut,同()條bun骨頭,潘
+04A,073,batu,batu,蛋，石頭,n̄ng，chióh-thâu,,潘
+04A,074,pah hah,pahhah,鹽,iâm,,潘
+04A,075,paha,,鹽,iâm,,田
+04A,076,makelem alaw,,鹹魚,kiâm-hî,,田
+04A,077,i nu mat,i nu mat,醃漬,sīn iâm ê,,潘
+04A,078,iamadu,iamadu,糖,thn̂g,,潘
+04A,079,tubuts,tubuts,甘蔗,kam-chià，thn̂g ê goân-liāu,,潘
+04A,080,maiu,māʔiu,油類(植物類油脂),iû ê lūi,,潘
+04A,081,selem,sələm,肥油，肥肉，油脂(動物類油脂),bah-iû，tōng-bu̍t-iû,,潘
+04A,082,maselem,masələm,肥，油膩,iû-zī，iû-lop-lop,,潘
+04A,083,nunoh,nunoh,牛奶,leng-tsúi，gû-leng,,潘
+04A,084,da lum,da lum,水,chúi，chúi，lim ê chhúi,,潘
+04A,085,talup,,果汁,kó-chiap,,田
+04A,086,tamun,,餡,ān,見(   )條tamun眼屎、見(   )條tamun酵母,田
+04A,087,pu put a rumu,,辦喜事時做的肉丸子,bah-oân,,田
+04B,001,denge deng,dəngə dəng,燙熱,thǹg，thǹg-sio,,潘
+04B,002,mazeh,mazeh,熟的,chú-kòe ê se̍k ê,,潘
+04B,003,tu sa zek lia,tu sa zək liā,腐臭，未煮的臭,noā koh chhàu，chhen-bah,,潘
+04B,004,tu ba ngia,tù ba ngia,(很臭)腐臭，煮過的肉,chhàu-kô-kô,,潘
+04B,005,tu ba ngu,tu ba ngu,腐臭，煮過的臭,chú-kòe ê chhàu,,潘
+04B,006,sazia lia,sazia lia,壞掉了,pháin-khì-à,,潘
+04B,007,sazian lia,sazian lia,不好的,bô-hó ā,,潘
+04B,008,maxa apaus,maxa apaus,發霉,sen-ko•，sen-phú,,潘
+04B,009,kakazip,kakazip,筷子,chiáh-pn̄g ê tī,,潘
+04B,010,hô hor,hô hor,沸水之聲,chúi  kún ê sian,,潘
+04B,011,pisumai,pi sumai,蒸煮好的飯,chú-hó ê pn̄g,,潘
+04B,012,muhooho,muhooho,蒸煮,chú  kún-chúi chú-,,潘
+04B,013,dadangi,dadangi,用水滾煮熟(如:煮水餃),iōng  kún-chúi chú-si̍k(chúi-kiáu),,潘
+04B,014,pai ha laman,pai ha laman,蒸籠,chhoe ê khì-khū，lâng-sn̂g，pn̄g-chhoe,,潘
+04B,015,ta lup,ta lup,湯,thng,,潘
+04B,016,musumusum,musumusum,湯拌飯,kiáu-thng,,潘
+04B,017,mutalek,mu ta lək,煮(菜，飯，湯)加熱(如:加熱已煮熟的飯菜的煮),chú，chú-thng,,潘
+04B,018,ma mai,mâ mai,煮飯,chú-pn̄g,,潘
+04B,019,ma a mai,mā â mai,正在煮,tng teh chú-chia̍h,,潘
+04B,020,sian,sian,煎,chian,,潘
+04B,021,si sian,si sian,煎炒,iōng chian-ê，téh chian chhá,,潘
+04B,022,da dang,da dang,烤,hang，hî，bah，kî-than,,潘
+04B,023,da dang i,da dang i,烤的命令式,iōng hang ê,,潘
+04B,024,mu da dang,mu da dang,要烤，用火取暖,beh hang,,潘
+04B,025,su su ling,su su ling,煲地瓜，甘蔗（用餘碳悶烤食物食物）,iōng pû-ê kam-chìa,,潘
+04B,026,mizazuk,mizazuk,煮開水,hiân kún-chúi,,潘
+04B,027,paizazek,paizazək,（熬煮）煎茶水,choan tê ， choan chúi,,潘
+04B,028,midoats,mi doats,掀開罐蓋的燒水,choan ê sî koàn-á-koà hian-khui,,潘
+04B,029,mangaian,mangaian,生的,chhen ê boe chú-kòe,,潘
+04B,030,sasipu,sasipu,生的,chhen ê boe chú-kòe,,潘
+04B,031,pa sipu,pa sipu,生吃,phah-chhen,,潘
+04B,032,meken,məkən,吃,chiáh，hióng-siū,,潘
+04B,033,meken i,mə kən i,吃!--命令式,chia̍h, i--這個東西,田
+04B,034,kaken,,吃,chia̍h,,田
+04B,035,kaaken,,正在吃--話的轉句中間,tng-leh-chia̍h,,田
+04B,036,takani,,來吃,lâi chia̍h,,九
+04B,037,pakani,,給吃,hō• chia̍h,見(   )條pakani餵,九
+04B,038,na manam,na manam,試吃,chhì-chia̍h,,潘
+04B,039,ku ri kun,ku ri kun,扒進嘴,pe zi̍p chhùi,,潘
+04B,040,ma mu si mus,ma mu si mus,偷吃,thau-chia̍h,,潘
+04B,041,bi bi sen，dalum,bi bi sən，dalum,小口喝，沾唇嘴邊小飲,sè-sè chhùi lim,,潘
+04B,042,damai,damai,舔,iōng chhùi-chih,,潘
+04B,043,damaii,da-mai-i,舔之命令式,kā i chip,,潘
+04B,044,mui mun,mûi mun,含，吸,kâm tī chhùi-lāi，kâm thn̂g-á,,潘
+04B,045,ta a ta,ta a ta,嚼,pō• póh,,潘
+04B,046,mungazip,mu nga zip,咬,kā,,潘
+04B,047,ngazipen lia,ngazipən lia,被咬了，咬下(過去式),hō• i kā khì-à ，kā cháu khì-a，kā lo̍h- khì-a,,潘
+04B,048,ngai ngia,ngai ngia,（被咬一個小洞）細咬,gè-ê， gè chi̍t-khang， hoan-be̍h-sūi，hō• niáu-chhí gè kui choa̍h,,潘
+04B,049,uxat,uxat,咀嚼後吐出,pō•，liáu-aū phùi--chhut-(lâi)laī,,潘
+04B,050,daux,daux,飲,lim,,潘
+04B,051,muxaluk,muxaruk,牛飲,tōa-lim，iōng oán-kong té chúi,,潘
+04B,052,lapet,lapət,慢慢喝 飲食,ûn-ûn-á lim,,潘
+04B,053,minedaux,,在喝,tng-teh chia̍h,,九
+04B,054,lapeti,lapəti,慢慢喝 飲食(命令式),ûn-ûn-á lim,,潘
+04B,055,mu de sek,mu də sək,吞下,thun--lo̍h-khì,,潘
+04B,056,mudelek,mu də lək,吞下,thun--lo̍h-khì,,潘
+04B,057,deleki,dələki,吞進去，吞下咽喉(進行式),thun lo̍h âu,,潘
+04B,058,hehep,,吸吮,suh,,田
+04B,059,muhehep,,吸,suh,,田
+04B,060,mehehep,məhehep,吸吮,iōng suh ê，chip-ê,,潘
+04B,061,he hepi,hè hepi,吸吮進行式,teh-suh,,潘
+04B,062,mu ta uta,mu taʔù-ta,吐,chhut-chiú，thò•,,潘
+04B,063,mu ta nang,mu ta nang,又要吐,beh koh thò•.,,潘
+04B,064,medexes，dexetsi,mədəxəs，dəxətsi,吐口水,thò• chhùi-chúi,,潘
+04B,065,alu takazipi saken,alu ta ka zipi sakən,請用（來夾菜）,ka ngeh chhài,,潘
+04B,066,ana matitai,a na ma ti tai,不要客氣，別空著碗,m̄ thang sè-zī,,潘
+04B,067,hapat,hapat,嘔吐物,thò•-chhut，chia̍h-mi̍h,,潘
+04B,068,dauduan,,醬油,tāu-iû,,田
+04B,069,maiau talek,,尚未煮的,iah-bē chú--ê,,田
+04B,070,makelem,,鹹,kiâm,,田
+04B,071,sasipu,,生吃的食物,chhen-chia̍h ê si̍t-bu̍t,,田
+04B,072,pakani,,餵,chhī,見(   )條pakani給吃,九
+04C,001,i nusat,i nusat,酒,chiú,,潘
+04C,002,tamun,tamun,酵母,kàn，àn,見(   )條tamun眼屎、見(   )條tamun餡,潘
+04C,003,tatamun,tatamun,發酵,hoa̍t-kàn,,潘
+04C,004,si rik,sì rik,過濾,kòe-lī，ia kiò lū，kin,,潘
+04C,005,siriki,sirikì,過濾的命令式,kin，kā-kin，lī，lū,,潘
+04C,006,si silikai,si silik,淘米,sé-bí,,潘
+04C,007,sirik kaik,sirik kaik,濾乾,lī hō• ta,,潘
+04C,008,si sirikai,si sirikai,將過濾,tī beh kin-ê，kòe-lī,,潘
+04C,009,mabusuk,mabusuk,酒醉,chùi，chiú-tsùi,,潘
+04C,010,minabusuk,minabusuk,飲(過去式),teh-tsùi，lim-kòe chiú,,潘
+04C,011,pa ka kai itd,pa ka kâi itd,乾杯,kan-poe,,潘
+04C,012,mai zau，mai zau,mâi zau，mâi zau,宿醉，醉倒,lim siun-chē，tsùi-tó,,潘
+04C,013,tehepet，tixipes,tehepət，tixipəs,（酒後嘔吐)吐唾沫,thò•-chiú-bī，[ xaphpəts]phùi,,潘
+04C,014,tamaku,tamaku,香菸，菸草,hun，chiah-hun,,潘
+04C,015,busubut tamaku,busubut tamaku,抽菸的煙,hun-koéh-á，hun-sái,,潘
+04C,016,busubut,busubut,煙,ian,,潘
+04C,017,nga pi,nga pi,菸蒂,pok kòe ê hun-thâu,,潘
+04C,018,tu tu,tu tu,菸斗/菸酒,hun-chhoe-táu,,潘
+04C,019,tu tu ba baran,tu tu ba baran,煙管,hun-chhoe-kóng，khip-kóng,,潘
+04C,020,banban,bân ban,菸斗,hun-táu,,田
+04C,021,tisadem,ti sa dəm,吸管不通,khip-kóng that-tiâu，bē-thong,,潘
+04C,022,mukuleh,mukuleh,通菸斗,thong-tháu，thong,,潘
+04C,023,ta a ta eng,ta a ta əng,嚼檳榔,kā phoà pin-nn̂g，chhen-á-lia̍p,,潘
+04C,024,mangaian baugun,ma nga ian bāugun,檳榔葉,láu-hio̍h,見()條baugun牛蛙,潘
+04C,025,hawa,hawa,荖藤,láu-tîn,,潘
+04C,026,zazahat,zazahat,石灰,chio̍h-hoe，boah tī laú-hio̍h，chio̍h-thoàn,,潘
+04C,027,ho'oho inusat,hô-o hò-o inusat,蒸餾酒精,kek-ziú,,九
+12A,001,babaxa,ba bà-xa,贈賜（給人）,hō•-lâng，theh hō• lâng， chìap-kòe,,潘
+12A,002,ai tana,ai ta-na,分給我（給我）,hō•-goá，su-iàu ê iau-kiû,,潘
+12A,003,aunu,au-nu,贈與，予,sàng-hō•，sián-lâng,,潘
+12A,004,imini ka aunu nisiu,i-mi-ni ka aū-nu ni-siu,這是要給你的,chit-ê beh hō• -lí,,潘
+12A,005,ni an isiu,ni an i-siu,要給你，拿去,che beh hō• lí theh-khì-ê,,潘
+12A,006,ka lauoaden,kā lāu-oà-dən,要求,iau-kîu ê，thó ê，ng-lâng-thèh ê,,潘
+12A,007,ma a,mà a,提，取,the̍h，kā-the̍h,,潘
+12A,008,mutahan,mù-tā-han,賺，得利,thàn，tit-lī-èk,,潘
+12A,009,holak,hò-lak,搶,chhiún，toa̍t,,潘
+12A,010,holak en,hò-lak ən,被搶,hō•-lâng-chhiún khì,,潘
+12A,011,hoholak,ho hò-lak,搶奪搶劫,kiông-kiông chhiún,,潘
+12A,012,ti ka iapu,ti ka iā-pu,得名譽,ū-bêng-ì，hó-mian-sian-ê,,潘
+12A,013,mu hadai,mu hā-dai,伸手,chhun-chhut，chhiú,,潘
+12A,014,maha dakan,mà-hā dà-kan,領受,niá-siū,,潘
+12A,015,ha dakan en,hà dā-kan ən,接受贈物,tit-tiòh thèh ê mi̍h,,潘
+12A,016,mukumu,mù-kū-mu,抓住，拎著,lia̍h，khîn，lia̍h-tiâu,,潘
+12A,017,ka zamat,ka za-mat,抓,lia̍h-tiâu，khîn-tiâu,,潘
+12A,018,ka zamatsen,kà za-mat-sən,拎著,kā ki-hóe khîn-tiâu,,潘
+12A,019,kemuen,kəmuən,抓到了,lia̍h-tiòh ā,,潘
+12A,020,pau gu lun,paú gù lun,傳遞,chi̍t-chhiú chiap-kòe，chi̍t-chhiú,,潘
+12A,021,mu baiu,mù bā-iu,買,bé，gîn-niú oān-lâi ê,,潘
+12A,022,bayu,,買,bé,見(   )條bayu,田
+12A,023,muba'iw,,買,bé,,田
+12A,024,ba'iw'en,,被賣,hō•　bē--khì,見(   )條ba'iw'en賣掉,九
+12A,025,ba'iw'en,,賣掉,bē-tiāu,見(   )條ba'iw'en被賣,九
+12A,026,maxi baiu,maxi ba-iu,賣,bē，mi̍h oān chòe chîn,,潘
+12A,027,taxi baiu,ta-xi ba-iu,商人,siang-lí，bé-bē ê lâng,,潘
+12A,028,lalamik,,價格,kè-siàu,,九
+12A,029,mu kaba let,mu ka-ba lət,借,chioh，m-sī ka-tī ê chioh-ê,,潘
+12A,030,pa kabalet,pa ka-ba-lət,借人,chioh-chhut,,潘
+12A,031,mausai pasu,mau-sai pà-su,送出,beh sàng-khì,,潘
+12A,032,mapalizi,,交換；易物,kau-oān；sio-oān　mi̍h,,九
+12A,033,mutahan,mù-tā-han,賺,thàn，tit-li-ek，thàn-chîn,,潘
+12A,034,mi tuat,mi tuat,得到,tit-tio̍h,,潘
+12A,035,mukalawa,,得到,tit-tio̍h,見(   )條mukalawa承受,九
+12A,036,maxadian,maxa-dian,賠錢,pôe-chîn,,潘
+12A,037,mate ezan,ma-tə ə-zán,賠本,pôe-pún，liáu-chîn,,潘
+12A,038,pai,pa-i,錢，銀兩,chîn，gîn-phiò,,潘
+12A,039,pila,pi-la,銀,gîn，chîn，gîn-niú,,潘
+12A,040,lilak,li-lak,金,kim.kim-gîn，só•-hùi,,潘
+12A,041,adang a lilak,a-dāng ā li-lak,一金,chi̍t-kho，chi̍t-kim,,潘
+12A,042,pila,pi-la,銀製的，銀兩貨幣,gîn ê，kim-sio̍k chè-chō ê,,潘
+12A,043,i sit a pila,i sit a pi-la,十元,cha̍p-khò,,潘
+12A,044,adang a bintun,à-dang ā bin-tun,十分之一錢（一分）,chi̍t-sián，chi̍t-tiám-chîn,見（）條bintun星星,潘
+12A,045,pila,,銀元,gîn-goân,,九
+12A,046,adang a zukuzuk,a-dang a zù-ku-zuk,一角,chi̍t-kak,,潘
+12A,047,mubaxa pai,mu-ba-xa pà-i,給付,hō• lâng chîn,,潘
+12A,048,mubakha,mu-ba-kha,供給,chîn kióng-kip,,潘
+12A,049,bakhai pai,ba-khai pa-i,供給,chîn kióng-kip,,潘
+12A,050,pa a ho bun,pà a ho bûn,賀年付出,hù-chîn，hoat-chîn,,潘
+12A,051,haima lalamit,hai-ma la-là-mit,問價錢多少,loā-chē，kúi ê gîn,,潘
+12A,052,haima pai,hai-ma pa-i,問價錢多少,loā-chē，kúi ê gîn,,潘
+12A,053,bizu i na,bi-zu i na,賒欠（請寫吧！之意）,siá-teh，sia-khiàm,,潘
+12A,054,mu bizu,mù bī-zu,記帳(用於一般書寫也可),kì-teh，kì-siàu,,潘
+12A,055,ma ka zang,ma ka zang,奢侈物，貴,kùi，kùi-tiōng,,潘
+12A,056,lalima,là-lī-ma,便宜,pân-gî，kong-tō ê,,潘
+12A,057,ha hop i,ha hop i,降價,lo̍h-kè，kiu-chúi ê,,潘
+12A,058,mangazup a pai,ma-nga-zup，ā pà-i,找錢,chāu-chîn,,潘
+12A,059,ma palizi,ma pa-li-zi,換錢,oān-chîn，sio-kau-oān,,潘
+12A,060,kelem,kə-ləm,吝嗇，小氣,ko-sng，tàng-sng，kiâm,,潘
+12A,061,matau a henis,mà-tau ā hè-nis,貪心,tham，toà-sim-koan,,潘
+12A,062,anui lia,à-nui lia,不小心浪費,bô-chhái，ka-la̍uh ê mi̍h,用於如不小心飯菜掉了的"無心浪費"  比較()條suasua-真的浪費),潘
+12A,063,ma xa ai,ma xâ ai,雇傭,chhiàn，chhiàn-kang,,潘
+12A,064,ba lats,ba lats,工資，薪水,kang-chîn，kang-chu,,潘
+12A,065,xezem,xə-zəm,財產,châi-sán,,潘
+12A,066,xezem a sau,xə-zəm a sau,大地主,chhân-thâu-ke，toā-tē-chú,,潘
+12A,067,mukalawa,,承受,sêng-siū,見(   )條mukalawa得到,九
+12B,001,apu Magiyowas,,天神名,thin-sîn　ê　mâi,,九
+12B,002,azem,a-zəm,過年,kòe-nî,,潘
+12B,003,muazau azum,,過年,kòe-nî,,田
+12B,004,mazazuah,,走標,cháu-pio,,九
+12B,005,mu tep,mu təp,獵首,thâi-thâu，koah，ām-kún,,潘
+12B,006,mu u bang,mu ù bang,埋葬,bâi-tsòng，tâi tī thô•,,潘
+12B,007,i nu bang a sau,ì nu bang a sau,墓碑,bâi-tsòng ê lâng mîa(bōng-pâi),,潘
+12B,008,mu u beng(mi abeng),mu u bəng(mi àbəng),埋畜生,tâi cheng-sen，sí ê lâng,,潘
+12B,009,mu-u-beng,mu u beng,拿東西掩蓋,,,
+12B,010,ma simasimao,ma simasimao,部落會議，守夜，守靈,chiún mê，chiún lêng,,潘
+12B,011,mai sai sa kupo,mai sai sa kupo,籌備喪事,tiû-pī song-sū,,潘
+12B,012,ba bau a ba,ba bau a ba,天父,thin-pē,,潘
+12B,013,sasumat'an,,教堂,kàu tn̂g,,田
+12B,014,sumat,,禮拜,lé-pài,,九
+12B,015,musumat,,禮拜、禱告；敬奉,lé-pài、tó-kò；kèng-hōng,,九
+12B,016,sa mian,sa mian,神靈,sîn-lêng,,潘
+12B,017,sa samian,sa sa-mian,崇拜,chè-sîn，tsông-pài,,潘
+12B,018,sumat,,崇拜,chông-pài,,田
+12B,019,ma sa mian,ma sa mian,拜神,pài-sîn,,潘
+12B,020,a pu samian,à pu sa-mian,祖神,tsó•-kong sîn má-tsó,,潘
+12B,021,sasamian xumak,,神廟,sîn-biō,,九
+12B,022,ta ba la loan,tà ba là loan,幽靈,kúi，khoán-bē-tio̍h ê，hûn-kúi,,潘
+12B,023,daxe daxe,daxə daxə,符咒的人鬼(會使用黑巫術害人的壞巫師)番婆鬼,ē-hiáu hû-chiù ê lâng-kúi，hoan-pô-kúi,,潘
+12B,024,maxa daxe daxe,maxa daxə daxə,鬼靈，人鬼(變番婆鬼),lâng piàn ê kúi,,潘
+12B,025,ka du xu,ka du xu,符咒,hû-chiù，tsò-chiù,,潘
+12B,026,imu imu,i-mu i-mu,沒有亮光的鬼火,lêng-hóe，kúi ê hóe,,潘
+12B,027,lingu,li-ngu,靈魂,lêng-hûn,,潘
+12B,028,lama,là-ma,命運，福星,miā，miā-ūn，sèn-miā,,潘
+12B,029,iak a lama,iak a lama,好運,hēng-ūn，hó-ūn,,潘
+12B,030,saziah lama,saziah la-ma,壞運,phái n-ūn,,潘
+12B,031,mana manam,ma-na ma-nam,祈禱,me-tó，kî-tó，liām-sû,,潘
+12B,032,mutanip,,庇佑,pì-iū,見(   )條mutanip拯救,九
+12B,033,mutanip,,拯救,chín-kiù,見(   )條mutanip庇佑,九
+12B,034,maisakep,,結合,kiat-ha̍p,,九
+12B,035,maxiasu,,新人（新郎；新娘）,sin-lâng（sin-lông；sin-niû）,,九
+21A,001,iaku，aku,ia-ku，aku,我,goá,,潘
+21A,002,yaku,,我,goá,,田
+21A,003,iami，ami,iā-mi，a-mi,我們,goán,,潘
+21A,004,ita,i-ta,咱們,lán,,潘
+21A,005,isiu,i-siu,你,lí,,潘
+21A,006,isiw,,你,lí,,田
+21A,007,siw,,你 ( 連用式 ) ,lí，liân-sio̍k-ōe ,,田
+21A,008,imu,i-mu,你們,lín,,潘
+21A,009,nimu,,你們,lín,,田
+21A,010,imi siu,i-mi siu,他,i,,潘
+21A,011,misia,,他們,īn,見(   )條misia那個--指一項,田
+21A,012,imisiw,,他們,īn，kah-so•-oán,,田
+21A,013,iamisiu,ia-mi-siu,他們,in,,潘
+21A,014,mimisia,,他們-- 較多人 ,īn，kah-chē lâng,,田
+21A,015,naki,nà-ki,我的,goá-ê,,潘
+21A,016,niam,niám,我們的,goán-ê,,潘
+21A,017,niam ma,,我們的,goán-ê,,田
+21A,018,nita,ni-ta,咱們的,lán-ê,,潘
+21A,019,nisiu,nì-siu,你的,lí-ê,,潘
+21A,020,nisiw,,你的,lí-ê,,田
+21A,021,nimu,ni-mu,你們的,lín-ê,,潘
+21A,022,namisiu,na-mi-siu,他的,i-ê,,潘
+21A,023,namisiu,na-mi-siu,他們的,in-ê,,潘
+21A,024,lai iaku,lai ia-ku,是我,sī-goá,,潘
+21A,025,la iami,la ia-mi,是我們,sī-goán,,潘
+21A,026,la ita,la i-ta,是我們,sī-lán,,潘
+21A,027,lai isiu,lai i-siu,是你,sī-lí,,潘
+21A,028,laimu,lai-mu,說是，有在說,kóng-sī,,潘
+21A,029,lai misiu,lai mi-siu,是他們,sī-in,,潘
+21A,030,la iamisiu,la ia-mi-siu,說他們,kóng-in,,潘
+21A,031,iaku ka kaxabu,ia-ku ka ka-xa-bu,我是噶哈巫,goá sī kaxabu,,潘
+21A,032,imini ka naki,i-mi-ni ka nà-ki,這是我的,che sī goá ê,,潘
+21A,033,naki a babizu,nà-ki a bā-bi-zu,我的書,goá ê chheh,,潘
+21A,034,kaka nen naki isia a lau,kà-kā nən naki i-sia a -lau,我吃那條魚,goá chiah hit-bóe-hî,,潘
+21A,035,babaxai iaku laimu,ba-bà-xai iā-ku lāi-mu,你要那個東西,lí beh goá hit-ê mi̍h,,潘
+21A,036,naki a laladan babizu,na-ki a là-lā-dan bà-bi-zu,我的書桌,goá ê chheh-toh-á,,潘
+21A,037,aingainga,āing ga īnga,各種 ( 蔬菜，水果和植物 ) ,koh-chióng,,田
+21A,038,misia,,那個--指一項,tī bīn-thâu chêng--ê,見(   )條misia他們,田
+21A,039,misia a saw,,那些人--兩三個人,hia-ê lâng，nn̄g san ê lâng,,田
+21A,040,niam,,咱們/我們( 包含式 ) ,lán／gún,,田
+21A,041,talima,,自己的,ka-tī ê,,九
+21A,042,minuasu,,叔父；母親稱呼小叔,a-chik；a-bú kiò sió-chik-á,,九
+21B,001,imini，nimini，laimini,i-mi-ni，ni-mi-ni，lai-mi-ni,這,chit,,潘
+21B,002,imisiu，nimisiu，laimisiu,i-mi-siu，ni-mi-siu，lai-mi-siu,那,hit,,潘
+21B,003,mini,,這個,chia,,田
+21B,004,imini，nimini，laimini,i-mi-ni，ni-mi-ni，lai-mi-ni,這個,chit ê,,潘
+21B,005,imisiu，nimisiu，laimisiu,i-mi-siu，ni-mi-siu，lai-mi-siu,那個,hit ê,,潘
+21B,006,miisia,,那個 ( 指多種物中之一物 ),hit--ê,,田
+21B,007,i sia,i sia,那邊,hit-pêng,,潘
+21B,008,dini,,這裡,chia,,田
+21B,009,nisia,ni-sia,那裡,hia,,潘
+21B,010,kai misia,,那裡,hit-ê só•-chāi,,田
+21B,011,haimini,,這些,chiai-ê,,田
+21B,012,laisia,lai-sia,那個位置,hit-ūi,,潘
+21B,013,dini,di-ni,在這裡,tī-chia,,潘
+21B,014,aidini,ai-di-ni,就在這裡,chiū sī tī chia,,潘
+21B,015,disiu,di-siu,在那裡,tī-hia,,潘
+21B,016,aidisiu,ai-di-siu,就在那裡,chiū sī tī hia,,潘
+21B,017,di dua,di dua,那邊,hit-pêng,,潘
+21B,018,dua,,那邊,hit-pîng,,九
+21B,019,aididoa,ai-di-doa,就是那邊,hit-pêng，hit-ūi，chiū sī tī só• -chai,,潘
+21B,020,a xai paini,à xai pai-ni,這是什麼東西,che sī sián mi̍h-kian，sī sian-mih,,潘
+21B,021,asai paimi,à-sai pai-mi,是什麼,sī sím-mí-mih，m̄-bat ê ，gî-būn,,潘
+21B,022,aidini ki nisiu a babizu,aī-di-ni ki ni-siu ā bà-bi-zu,你的書在這,lí ê chheh tī chia,,潘
+21B,023,sasai paisiu,sā-sai pai-siu,你在做什麼,lí chhòng sián-hòe,,潘
+21B,024,sa axai paini,sa à-xai pai-ni,這人在幹嘛,che lâng the chò-sian-hòe,,潘
+21B,025,sasai paini,sā-sai pai-ni,這作何用處,thang-chò sian lō• ēng,,潘
+21B,026,sa nu,sa nu,可當之,èng-iōng,,潘
+21B,027,sa nu axai,sa nu à-xai,什麼用處,tsò sím-mih ê,,潘
+21B,028,imini ka naki,i-mi-ni ka nà-ki,這是我的,che sī góa ê,,潘
+21B,029,i-ma pai mi-siu,i-ma pai mi-siu,那是什麼人,hit ê sī sím-mih-lâng,,潘
+21B,030,i-mi-ni ka à-xai,i-mi-ni ka à-xai,這是什麼,che sī sián-mih,,潘
+21B,031,à-xai pāi-ni,à-xai pāi-ni,這個什麼,che sián-mih,,潘
+21B,032,miā-à-xai， miā-à-sai,miā-à-xai， miā-à-sai,那個是什麼,hit-ê sán-hòe,,潘
+21B,033,a xai pai mini,à xai pai mi-ni,這是什麼,che sī sím-mih,,潘
+21B,034,laila,,說是那樣,kóng　sī　án-ne,,九
+21B,035,nisaw sia,ni-saw sia,是那些人的，不是我的,sī　hia-ê　lâng　ê,m̄-sī　goá　ê,,九
+21C,001,i'ima,,誰?,tó-chi̍t-ê,,田
+21C,002,ima,i-ma,何人,sím-mih-lâng,,潘
+21C,003,ima pai misiu,i-ma pai mi-siu,那是什麼人,hit ê sī sím-mih-lâng,,潘
+21C,004,axai，asai,à-xai，à-sai,什麼,sim-mih，sán-hòe,,潘
+21C,005,axay,à xay,什麼?,sián-míh,,田
+21C,006,imini ka axai,i-mi-ni ka à-xai,這是什麼,che sī sián-mih,,潘
+21C,007,axai paini,à-xai pāi-ni,這個什麼,che sián-mih,,潘
+21C,008,miaaxai， miaasai,miā-à-xai， miā-à-sai,那個是什麼,hit-ê sán-hòe,,潘
+21C,009,isiu ka hapet mia axai,i-siu ka hā-pət miā à-xai,你要哪一個,lí ài tó chi̍t-ê,,潘
+21C,010,dichhai,di-chhái,在哪裡,tī sím-mih só-chāi,,潘
+21C,011,aichhay,ai chhai,要往何處,beh　óng　hô-chhù,,九
+21C,012,isiu ka mausai dichhai,i-siu ka māu-sai di-chhāi,你要往哪裡,lí beh khì tó-ūi,,潘
+21C,013,ai di chhai,aī di chhai,是何地方,sī sím-mih só-tsāi,,潘
+21C,014,si chhai,,何處,hô-chhù；tó-uī ,,九
+21C,015,naki a babizu ka aidichhai lia,nà-ki ā bà-bī-zu ka ai-di-chhai liā,我的書在哪,goá ê chheh tī tó-ūi-á,,潘
+21C,016,mu a xai,mù ā xai,什麼事情,sím-mih tāi-chì，teh sián-tāi,,潘
+21C,017,ka saiian,ka sai-ian,什麼時候,sím-mih sî-tsūn，tang-sî ê sî,,潘
+21C,018,isiu ka ka saiian mausai di,i-siu ka kā sai-ian māu-sâi di,你何時要去,lí sī sím-mih sî beh khì,,潘
+21C,019,kasayan,,何時,sián-mih sî-chūn,,田
+21C,020,nuka sa ian,nū-ka sa ian,何時呢,sím-mih sî,,潘
+21C,021,nu ka saian paisan,nu ka sà-ian pâi-san,何時出生,sím-mih sî chhut-sì ê,,潘
+21C,022,haima,,多少?,goā-chē,,田
+21C,023,haima,hai-ma,多少錢,lloā-chē，kúi-ê gîn，kúi kho•,,潘
+21C,024,xani sai,xà-ni sai,增加多少,ke-thin-loā-chē,,潘
+21C,025,iau haima ki taniaku,iau hai-ma ki tà-nīa-ku,剩下多少菸,chhun loā-chē hun,,潘
+21C,026,xaima a sau,xai-ma ā-sau,多少人,loā-chē lâng,,潘
+21C,027,xanisai a sau,xa-ni-sai ā-sau,增加多少人,,,
+21C,028,isiu ka xanisai a kauat s,i-siu ka xà-ni-sai a ka-uat s,幾歲了,lí kúi-hòe á,,潘
+21C,029,sasai en,sà-sai ən,要怎樣,beh choán-iūn，beh án-choán,,潘
+21C,030,kasasayai,ka sā sà yai,是要怎麼樣？,sī　beh　án-choán,,九
+21C,031,sasai en a mubuiak,sà-sāi ən a mù-bū-iak,要怎麼做,beh choán-iūn tsò,,潘
+21C,032,sasai,sā-sai,怎樣,án-choán,,潘
+21C,033,saien,,怎麼樣? ,choán-á-iūn,,田
+21C,034,a xai pai mini,à xai pai mi-ni,這是什麼,che sī sím-mih,,潘
+21C,035,mu'axay,,做甚麼(疑問),chò　siánn-mih ,,九
+21C,036,sa axai paini,sa a-xai pai-ni,作何用處,chò sián lō•-ēng,,潘
+21C,037,sai,,疑問詞,gî-būn-sû,,田
+21C,038,sasai-,,為什麼?,ūi-sián-mih,,田
+21C,039,yaadisay,yaadichhai,哪些,tó-chi̍t-koá-á,,九
+21C,040,mabazai siw?,,你知道嗎？,lí　chai-ián--bô,,九
+22C,041,xaima taulau ,,幾層樓?,,,
