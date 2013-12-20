@@ -1,0 +1,29 @@
+<%= form_for(@bok8_lok) do |f| %>
+  <% if @bok8_lok.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@bok8_lok.errors.count, "error") %> prohibited this bok8_lok from being saved:</h2>
+
+      <ul>
+      <% @bok8_lok.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :pinn1_mia5 %><br>
+    <%= f.text_field :pinn1_mia5 %>
+  </div>
+  <div class="field">
+    <%= f.label :pian1_ho7 %><br>
+    <%= f.text_field :pian1_ho7 %>
+  </div>
+  <div class="field">
+    <%= f.label :lui7 %><br>
+    <%= f.text_field :lui7 %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
