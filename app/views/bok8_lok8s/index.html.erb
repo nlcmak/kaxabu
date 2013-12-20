@@ -1,0 +1,31 @@
+<h1>Listing bok8_lok8s</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Pinn1 mia5</th>
+      <th>Pian1 ho7</th>
+      <th>Lui7</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @bok8_lok8s.each do |bok8_lok8| %>
+      <tr>
+        <td><%= bok8_lok8.pinn1_mia5 %></td>
+        <td><%= bok8_lok8.pian1_ho7 %></td>
+        <td><%= bok8_lok8.lui7 %></td>
+        <td><%= link_to 'Show', bok8_lok8 %></td>
+        <td><%= link_to 'Edit', edit_bok8_lok8_path(bok8_lok8) %></td>
+        <td><%= link_to 'Destroy', bok8_lok8, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Bok8 lok8', new_bok8_lok8_path %>

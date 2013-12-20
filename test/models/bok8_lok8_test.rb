@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class Bok8LokTest < ActiveSupport::TestCase
+class Bok8Lok8Test < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

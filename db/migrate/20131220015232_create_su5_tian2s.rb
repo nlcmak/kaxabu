@@ -1,6 +1,6 @@
-class CreateSu5Tians < ActiveRecord::Migration
+class CreateSu5Tian2s < ActiveRecord::Migration
   def change
-    create_table :su5_tians do |t|
+    create_table :su5_tian2s do |t|
       t.references :bok8_lok8, index: true
       t.string :su5_tian2_pian1_ho7
       t.string :kau3_tsai5_piau1_ki3

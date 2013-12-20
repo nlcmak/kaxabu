@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bok8_lok8_id: 
+  su5_tian2_pian1_ho7: MyString
+  kau3_tsai5_piau1_ki3: MyString
+  phuan1_ing2_lik8_piau1_ki3: MyString
+  tiong1_bun5: MyString
+  tai5_gi2: MyString
+  tsham1_kho2: MyText
+  tshut4_tshu3: MyString
+
+two:
+  bok8_lok8_id: 
+  su5_tian2_pian1_ho7: MyString
+  kau3_tsai5_piau1_ki3: MyString
+  phuan1_ing2_lik8_piau1_ki3: MyString
+  tiong1_bun5: MyString
+  tai5_gi2: MyString
+  tsham1_kho2: MyText
+  tshut4_tshu3: MyString

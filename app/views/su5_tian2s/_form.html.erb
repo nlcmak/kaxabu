@@ -1,0 +1,49 @@
+<%= form_for(@su5_tian2) do |f| %>
+  <% if @su5_tian2.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@su5_tian2.errors.count, "error") %> prohibited this su5_tian2 from being saved:</h2>
+
+      <ul>
+      <% @su5_tian2.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :bok8_lok8_id %><br>
+    <%= f.text_field :bok8_lok8_id %>
+  </div>
+  <div class="field">
+    <%= f.label :su5_tian2_pian1_ho7 %><br>
+    <%= f.text_field :su5_tian2_pian1_ho7 %>
+  </div>
+  <div class="field">
+    <%= f.label :kau3_tsai5_piau1_ki3 %><br>
+    <%= f.text_field :kau3_tsai5_piau1_ki3 %>
+  </div>
+  <div class="field">
+    <%= f.label :phuan1_ing2_lik8_piau1_ki3 %><br>
+    <%= f.text_field :phuan1_ing2_lik8_piau1_ki3 %>
+  </div>
+  <div class="field">
+    <%= f.label :tiong1_bun5 %><br>
+    <%= f.text_field :tiong1_bun5 %>
+  </div>
+  <div class="field">
+    <%= f.label :tai5_gi2 %><br>
+    <%= f.text_field :tai5_gi2 %>
+  </div>
+  <div class="field">
+    <%= f.label :tsham1_kho2 %><br>
+    <%= f.text_area :tsham1_kho2 %>
+  </div>
+  <div class="field">
+    <%= f.label :tshut4_tshu3 %><br>
+    <%= f.text_field :tshut4_tshu3 %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

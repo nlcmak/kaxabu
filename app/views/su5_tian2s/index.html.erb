@@ -1,0 +1,41 @@
+<h1>Listing su5_tian2s</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Bok8 lok8</th>
+      <th>Su5 tian2 pian1 ho7</th>
+      <th>Kau3 tsai5 piau1 ki3</th>
+      <th>Phuan1 ing2 lik8 piau1 ki3</th>
+      <th>Tiong1 bun5</th>
+      <th>Tai5 gi2</th>
+      <th>Tsham1 kho2</th>
+      <th>Tshut4 tshu3</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @su5_tian2s.each do |su5_tian2| %>
+      <tr>
+        <td><%= su5_tian2.bok8_lok8 %></td>
+        <td><%= su5_tian2.su5_tian2_pian1_ho7 %></td>
+        <td><%= su5_tian2.kau3_tsai5_piau1_ki3 %></td>
+        <td><%= su5_tian2.phuan1_ing2_lik8_piau1_ki3 %></td>
+        <td><%= su5_tian2.tiong1_bun5 %></td>
+        <td><%= su5_tian2.tai5_gi2 %></td>
+        <td><%= su5_tian2.tsham1_kho2 %></td>
+        <td><%= su5_tian2.tshut4_tshu3 %></td>
+        <td><%= link_to 'Show', su5_tian2 %></td>
+        <td><%= link_to 'Edit', edit_su5_tian2_path(su5_tian2) %></td>
+        <td><%= link_to 'Destroy', su5_tian2, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Su5 tian2', new_su5_tian2_path %>
