@@ -13,7 +13,7 @@ class AddInitialData < ActiveRecord::Migration
       篇名 = 篇名_
       編號 = s.row(i)[1][/[^0-9]*([0-9A-Z]*)/,1]
       類名 = s.row(i)[1][/[^0-9A-Z]*$/]
-        Bok8Lok8.create(pinn1_mia5: 篇名, pian1_ho7:編號, lui7:類名)
+      Bok8Lok8.create(pinn1_mia5: 篇名, pian1_ho7:編號, lui7:類名)
     end
       
     s.default_sheet = s.sheets[1]

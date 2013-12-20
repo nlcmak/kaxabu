@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131220016000) do
+ActiveRecord::Schema.define(version: 20131220035000) do
 
   create_table "bok8_lok8s", force: true do |t|
     t.string   "pinn1_mia5"
