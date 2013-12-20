@@ -3,6 +3,9 @@ Kaxabu::Application.routes.draw do  # The priority is based upon order of creati
   resources :bok8_lok8s
   resources :su5_tian2s
 
+  get 'bok8_lok8_tshue7_tsu1_liau7' => 'bok8_lok8_tshue7_tsu1_liau7#index'
+  post 'bok8_lok8_tshue7_tsu1_liau7' => 'bok8_lok8_tshue7_tsu1_liau7#index'
+  
   get 'phah4_zi7_tshue7_tsu1_liau7/index(/:zi7)' => 'phah4_zi7_tshue7_tsu1_liau7#index'
   get 'phah4_zi7_tshue7_tsu1_liau7(/:zi7)' => 'phah4_zi7_tshue7_tsu1_liau7#index'
   get '(:zi7)' => 'phah4_zi7_tshue7_tsu1_liau7#index'

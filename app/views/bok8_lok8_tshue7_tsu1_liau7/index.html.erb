@@ -1,0 +1,27 @@
+<h1>Listing bok8_lok8s</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>篇名</th>
+      <th>編號</th>
+      <th>類名</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @bok8_lok8s.each do |bok8_lok8| %>
+      <tr>
+        <td><%= link_to bok8_lok8.篇名, 'phah4_zi7_tshue7_tsu1_liau7/'+bok8_lok8.篇名  %></td>
+        <td><%= link_to bok8_lok8.編號 , 'phah4_zi7_tshue7_tsu1_liau7/'+bok8_lok8.編號  %></td>
+        <td><%= link_to bok8_lok8.類名 , 'phah4_zi7_tshue7_tsu1_liau7/'+bok8_lok8.類名  %></td>
+        <!-- <td><%= link_to bok8_lok8.類名 , :controller=>'phah4_zi7_tshue7_tsu1_liau7' %></td>-->
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
