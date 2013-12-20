@@ -1,9 +1,10 @@
+# encoding: UTF-8
 class CreateBok8Lok8s < ActiveRecord::Migration
   def change
     create_table :bok8_lok8s do |t|
-      t.string :pinn1_mia5
-      t.string :pian1_ho7
-      t.string :lui7
+      t.string :篇名
+      t.string :編號
+      t.string :類名
 
       t.timestamps
     end

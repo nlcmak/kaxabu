@@ -18,7 +18,7 @@ class Su5Tian2sControllerTest < ActionController::TestCase
 
   test "should create su5_tian2" do
     assert_difference('Su5Tian2.count') do
-      post :create, su5_tian2: { bok8_lok8_id: @su5_tian2.bok8_lok8_id, kau3_tsai5_piau1_ki3: @su5_tian2.kau3_tsai5_piau1_ki3, phuan1_ing2_lik8_piau1_ki3: @su5_tian2.phuan1_ing2_lik8_piau1_ki3, su5_tian2_pian1_ho7: @su5_tian2.su5_tian2_pian1_ho7, tai5_gi2: @su5_tian2.tai5_gi2, tiong1_bun5: @su5_tian2.tiong1_bun5, tsham1_kho2: @su5_tian2.tsham1_kho2, tshut4_tshu3: @su5_tian2.tshut4_tshu3 }
+      post :create, su5_tian2: { bok8_lok8_id: @su5_tian2.bok8_lok8_id, 中文譯解: @su5_tian2.中文譯解, 出處: @su5_tian2.出處, 參考: @su5_tian2.參考, 臺語譯解: @su5_tian2.臺語譯解, 噶哈巫語教材標記法: @su5_tian2.噶哈巫語教材標記法, 噶哈巫語潘永歷標記法: @su5_tian2.噶哈巫語潘永歷標記法, 辭典編號: @su5_tian2.辭典編號 }
     end
 
     assert_redirected_to su5_tian2_path(assigns(:su5_tian2))
@@ -35,7 +35,7 @@ class Su5Tian2sControllerTest < ActionController::TestCase
   end
 
   test "should update su5_tian2" do
-    patch :update, id: @su5_tian2, su5_tian2: { bok8_lok8_id: @su5_tian2.bok8_lok8_id, kau3_tsai5_piau1_ki3: @su5_tian2.kau3_tsai5_piau1_ki3, phuan1_ing2_lik8_piau1_ki3: @su5_tian2.phuan1_ing2_lik8_piau1_ki3, su5_tian2_pian1_ho7: @su5_tian2.su5_tian2_pian1_ho7, tai5_gi2: @su5_tian2.tai5_gi2, tiong1_bun5: @su5_tian2.tiong1_bun5, tsham1_kho2: @su5_tian2.tsham1_kho2, tshut4_tshu3: @su5_tian2.tshut4_tshu3 }
+    patch :update, id: @su5_tian2, su5_tian2: { bok8_lok8_id: @su5_tian2.bok8_lok8_id, 中文譯解: @su5_tian2.中文譯解, 出處: @su5_tian2.出處, 參考: @su5_tian2.參考, 臺語譯解: @su5_tian2.臺語譯解, 噶哈巫語教材標記法: @su5_tian2.噶哈巫語教材標記法, 噶哈巫語潘永歷標記法: @su5_tian2.噶哈巫語潘永歷標記法, 辭典編號: @su5_tian2.辭典編號 }
     assert_redirected_to su5_tian2_path(assigns(:su5_tian2))
   end
 

@@ -11,12 +11,12 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131220016000) do
+ActiveRecord::Schema.define(version: 20131220035000) do
 
   create_table "bok8_lok8s", force: true do |t|
-    t.string   "pinn1_mia5"
-    t.string   "pian1_ho7"
-    t.string   "lui7"
+    t.string   "篇名"
+    t.string   "編號"
+    t.string   "類名"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -31,13 +31,13 @@ ActiveRecord::Schema.define(version: 20131220016000) do
 
   create_table "su5_tian2s", force: true do |t|
     t.integer  "bok8_lok8_id"
-    t.string   "su5_tian2_pian1_ho7"
-    t.string   "kau3_tsai5_piau1_ki3"
-    t.string   "phuan1_ing2_lik8_piau1_ki3"
-    t.string   "tiong1_bun5"
-    t.string   "tai5_gi2"
-    t.text     "tsham1_kho2"
-    t.string   "tshut4_tshu3"
+    t.string   "辭典編號"
+    t.string   "噶哈巫語教材標記法"
+    t.string   "噶哈巫語潘永歷標記法"
+    t.string   "中文譯解"
+    t.string   "臺語譯解"
+    t.text     "參考"
+    t.string   "出處"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

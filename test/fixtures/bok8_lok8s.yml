@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  pinn1_mia5: MyString
-  pian1_ho7: MyString
-  lui7: MyString
+  篇名: MyString
+  編號: MyString
+  類名: MyString
 
 two:
-  pinn1_mia5: MyString
-  pian1_ho7: MyString
-  lui7: MyString
+  篇名: MyString
+  編號: MyString
+  類名: MyString

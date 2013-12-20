@@ -1,12 +1,9 @@
 #目錄(bok8_lok8)
-篇名(pinn1_mia5)	編號(pian1_ho7)	類名(lui7)
-自身篇			01				身體病痛醫藥類
-rails g scaffold Bok8Lok8 pinn1_mia5:string pian1_ho7:string lui7:string 
+篇名		編號		類名
+自身篇	01		身體病痛醫藥類
 rails g scaffold Bok8Lok8 篇名:string 編號:string 類名:string 
 
 #辭典(su5_tian2)
-目錄編號		辭典編號					噶哈巫語教材標記法		噶哈巫語潘永歷標記法				中文譯解			臺語譯解				參考					出處
-(bok8_lok8)	(su5_tian2_pian1_ho7)	(kau3_tsai5_piau1_ki3)	(phuan1_ing2_lik8_piau1_ki3)	(tiong1_bun5)	(tai5_gi2)			(tsham1_kho2)		(tshut4_tshu3)
-01A			005						bekets					bəkəts							頭髮				thâu mo•，mô•-hoat	見(   )條bekes毛髮	潘
-rails g scaffold Su5Tian2 bok8_lok8:references su5_tian2_pian1_ho7:string kau3_tsai5_piau1_ki3:string phuan1_ing2_lik8_piau1_ki3:string tiong1_bun5:string tai5_gi2:string tsham1_kho2:text tshut4_tshu3:string
+目錄編號		辭典編號		噶哈巫語教材標記法	噶哈巫語潘永歷標記法	中文譯解	臺語譯解				參考					出處
+01A			005			bekets				bəkəts				頭髮		thâu mo•，mô•-hoat	見(   )條bekes毛髮	潘
 rails g scaffold Su5Tian2 bok8_lok8:references 辭典編號:string 噶哈巫語教材標記法:string 噶哈巫語潘永歷標記法:string 中文譯解:string 臺語譯解:string 參考	:text 出處:string

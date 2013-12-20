@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 class Bok8Lok8sController < ApplicationController
   before_action :set_bok8_lok8, only: [:show, :edit, :update, :destroy]
 
@@ -69,6 +71,6 @@ class Bok8Lok8sController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def bok8_lok8_params
-      params.require(:bok8_lok8).permit(:pinn1_mia5, :pian1_ho7, :lui7)
+      params.require(:bok8_lok8).permit(:篇名, :編號, :類名)
     end
 end

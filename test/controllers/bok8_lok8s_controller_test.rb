@@ -18,7 +18,7 @@ class Bok8Lok8sControllerTest < ActionController::TestCase
 
   test "should create bok8_lok8" do
     assert_difference('Bok8Lok8.count') do
-      post :create, bok8_lok8: { lui7: @bok8_lok8.lui7, pian1_ho7: @bok8_lok8.pian1_ho7, pinn1_mia5: @bok8_lok8.pinn1_mia5 }
+      post :create, bok8_lok8: { 篇名: @bok8_lok8.篇名, 編號: @bok8_lok8.編號, 類名: @bok8_lok8.類名 }
     end
 
     assert_redirected_to bok8_lok8_path(assigns(:bok8_lok8))
@@ -35,7 +35,7 @@ class Bok8Lok8sControllerTest < ActionController::TestCase
   end
 
   test "should update bok8_lok8" do
-    patch :update, id: @bok8_lok8, bok8_lok8: { lui7: @bok8_lok8.lui7, pian1_ho7: @bok8_lok8.pian1_ho7, pinn1_mia5: @bok8_lok8.pinn1_mia5 }
+    patch :update, id: @bok8_lok8, bok8_lok8: { 篇名: @bok8_lok8.篇名, 編號: @bok8_lok8.編號, 類名: @bok8_lok8.類名 }
     assert_redirected_to bok8_lok8_path(assigns(:bok8_lok8))
   end
 

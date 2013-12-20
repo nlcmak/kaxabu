@@ -1,1 +1,1 @@
-json.extract! @bok8_lok8, :id, :pinn1_mia5, :pian1_ho7, :lui7, :created_at, :updated_at
+json.extract! @bok8_lok8, :id, :篇名, :編號, :類名, :created_at, :updated_at
