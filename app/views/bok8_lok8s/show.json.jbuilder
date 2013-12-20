@@ -1,1 +1,1 @@
-json.extract! @bok8_lok8, :id, :½g¦W, :½s¸¹, :Ãş¦W, :created_at, :updated_at
+json.extract! @bok8_lok8, :id, :ç¯‡å, :ç·¨è™Ÿ, :é¡å, :created_at, :updated_at

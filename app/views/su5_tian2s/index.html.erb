@@ -4,13 +4,13 @@
   <thead>
     <tr>
       <th>Bok8 lok8</th>
-      <th>���s��</th>
-      <th>�����Ży�Ч��аO�k</th>
-      <th>�����Ży��þ��аO�k</th>
-      <th>����Ķ��</th>
-      <th>�O�yĶ��</th>
-      <th>�Ѧ�</th>
-      <th>�X�B</th>
+      <th>辭典編號</th>
+      <th>噶哈巫語教材標記法</th>
+      <th>噶哈巫語潘永歷標記法</th>
+      <th>中文譯解</th>
+      <th>臺語譯解</th>
+      <th>參考</th>
+      <th>出處</th>
       <th></th>
       <th></th>
       <th></th>
@@ -21,13 +21,13 @@
     <% @su5_tian2s.each do |su5_tian2| %>
       <tr>
         <td><%= su5_tian2.bok8_lok8 %></td>
-        <td><%= su5_tian2.���s�� %></td>
-        <td><%= su5_tian2.�����Ży�Ч��аO�k %></td>
-        <td><%= su5_tian2.�����Ży��þ��аO�k %></td>
-        <td><%= su5_tian2.����Ķ�� %></td>
-        <td><%= su5_tian2.�O�yĶ�� %></td>
-        <td><%= su5_tian2.�Ѧ� %></td>
-        <td><%= su5_tian2.�X�B %></td>
+        <td><%= su5_tian2.辭典編號 %></td>
+        <td><%= su5_tian2.噶哈巫語教材標記法 %></td>
+        <td><%= su5_tian2.噶哈巫語潘永歷標記法 %></td>
+        <td><%= su5_tian2.中文譯解 %></td>
+        <td><%= su5_tian2.臺語譯解 %></td>
+        <td><%= su5_tian2.參考 %></td>
+        <td><%= su5_tian2.出處 %></td>
         <td><%= link_to 'Show', su5_tian2 %></td>
         <td><%= link_to 'Edit', edit_su5_tian2_path(su5_tian2) %></td>
         <td><%= link_to 'Destroy', su5_tian2, method: :delete, data: { confirm: 'Are you sure?' } %></td>
