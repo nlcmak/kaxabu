@@ -1,4 +1,9 @@
-<h1>Listing su5_tian2s</h1>
+<h1><%= @標題 %></h1>
+
+<%= form_tag('.',method: "post") do %>
+  <%= text_field_tag(:zi7,@這馬) %>
+  <%= submit_tag("查") %>
+<% end %>
 
 <table>
   <thead>
@@ -13,9 +18,6 @@
       <th>臺語譯解</th>
       <th>參考</th>
       <th>出處</th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
 
@@ -32,9 +34,6 @@
         <td><%= su5_tian2.臺語譯解 %></td>
         <td><%= su5_tian2.參考 %></td>
         <td><%= su5_tian2.出處 %></td>
-        <td><%= link_to 'Show', su5_tian2 %></td>
-        <td><%= link_to 'Edit', edit_su5_tian2_path(su5_tian2) %></td>
-        <td><%= link_to 'Destroy', su5_tian2, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
     <% end %>
   </tbody>
@@ -42,4 +41,3 @@
 
 <br>
 
-<%= link_to 'New Su5 tian2', new_su5_tian2_path %>
