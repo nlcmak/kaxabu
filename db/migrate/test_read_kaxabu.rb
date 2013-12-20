@@ -5,15 +5,15 @@ s = Roo::Excelx.new('migrate_data\\噶哈巫語分類辭典.xlsx')
 
 File.open('migrate_data\\噶哈巫語分類辭典_out.txt','w') do |file|
   s.default_sheet = s.sheets[0]
-  pinn1mia5_ = nil
+  篇名_ = nil
   (3..s.last_row).each do |i|
     if s.row(i)[0].to_s.strip.empty? == false
-      pinn1mia5_ = s.row(i)[0].strip
+      篇名_ = s.row(i)[0].strip
     end
-    pinn1mia5 = pinn1mia5_
-    pian1ho7 = s.row(i)[1][/[^0-9]*([0-9A-Z]*)/,1]
-    lui7 = s.row(i)[1][/[^0-9A-Z]*$/]
-    file.write pinn1mia5+', '+pian1ho7+', '+lui7+"\n"
+    篇名 = 篇名_
+    編號 = s.row(i)[1][/[^0-9]*([0-9A-Z]*)/,1]
+    類名 = s.row(i)[1][/[^0-9A-Z]*$/]
+    file.write [篇名,編號,類名].join(',')+"\n"
   end
   
   s.default_sheet = s.sheets[1]
